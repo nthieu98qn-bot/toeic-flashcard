@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "topic": "Business & Office",
+    "english": "agenda",
+    "pos": "n",
+    "vietnamese": "chương trình họp/lịch trình",
+    "korean": "안건, 일정"
+  },
+  {
+    "id": 2,
+    "topic": "Business & Office",
+    "english": "appointment",
+    "pos": "n",
+    "vietnamese": "cuộc hẹn",
+    "korean": "약속, 예약"
+  },
+  {
+    "id": 3,
+    "topic": "Business & Office",
+    "english": "arrange",
+    "pos": "v",
+    "vietnamese": "sắp xếp",
+    "korean": "준비하다, 정리하다"
+  },
+  {
+    "id": 4,
+    "topic": "Business & Office",
+    "english": "assistant",
+    "pos": "n",
+    "vietnamese": "trợ lý",
+    "korean": "조수, 보조원"
+  },
+  {
+    "id": 5,
+    "topic": "Business & Office",
+    "english": "branch",
+    "pos": "n",
+    "vietnamese": "chi nhánh",
+    "korean": "지점"
+  },
+  {
+    "id": 6,
+    "topic": "Business & Office",
+    "english": "briefing",
+    "pos": "n",
+    "vietnamese": "buổi báo cáo ngắn",
+    "korean": "브리핑"
+  },
+  {
+    "id": 7,
+    "topic": "Business & Office",
+    "english": "colleague",
+    "pos": "n",
+    "vietnamese": "đồng nghiệp",
+    "korean": "동료"
+  },
+  {
+    "id": 8,
+    "topic": "Business & Office",
+    "english": "conference",
+    "pos": "n",
+    "vietnamese": "hội nghị",
+    "korean": "회의, 학회"
+  },
+  {
+    "id": 9,
+    "topic": "Business & Office",
+    "english": "contact",
+    "pos": "v/n",
+    "vietnamese": "liên hệ; người liên hệ",
+    "korean": "연락하다; 연락처"
+  },
+  {
+    "id": 10,
+    "topic": "Business & Office",
+    "english": "department",
+    "pos": "n",
+    "vietnamese": "phòng ban",
+    "korean": "부서"
+  },
+  {
+    "id": 11,
+    "topic": "Business & Office",
+    "english": "director",
+    "pos": "n",
+    "vietnamese": "giám đốc",
+    "korean": "이사, 감독"
+  },
+  {
+    "id": 12,
+    "topic": "Business & Office",
+    "english": "document",
+    "pos": "n",
+    "vietnamese": "tài liệu",
+    "korean": "문서"
+  },
+  {
+    "id": 13,
+    "topic": "Business & Office",
+    "english": "employee",
+    "pos": "n",
+    "vietnamese": "nhân viên",
+    "korean": "직원"
+  },
+  {
+    "id": 14,
+    "topic": "Business & Office",
+    "english": "employer",
+    "pos": "n",
+    "vietnamese": "người sử dụng lao động",
+    "korean": "고용주"
+  },
+  {
+    "id": 15,
+    "topic": "Business & Office",
+    "english": "extension",
+    "pos": "n",
+    "vietnamese": "số máy nhánh/gia hạn",
+    "korean": "내선; 연장"
+  },
+  {
+    "id": 16,
+    "topic": "Business & Office",
+    "english": "headquarters",
+    "pos": "n",
+    "vietnamese": "trụ sở chính",
+    "korean": "본사"
+  },
+  {
+    "id": 17,
+    "topic": "Business & Office",
+    "english": "inquire",
+    "pos": "v",
+    "vietnamese": "hỏi, yêu cầu thông tin",
+    "korean": "문의하다"
+  },
+  {
+    "id": 18,
+    "topic": "Business & Office",
+    "english": "manager",
+    "pos": "n",
+    "vietnamese": "quản lý",
+    "korean": "관리자"
+  },
+  {
+    "id": 19,
+    "topic": "Business & Office",
+    "english": "meeting",
+    "pos": "n",
+    "vietnamese": "cuộc họp",
+    "korean": "회의"
+  },
+  {
+    "id": 20,
+    "topic": "Business & Office",
+    "english": "memo",
+    "pos": "n",
+    "vietnamese": "ghi chú nội bộ",
+    "korean": "메모, 사내 공지"
+  },
+  {
+    "id": 21,
+    "topic": "Business & Office",
+    "english": "notify",
+    "pos": "v",
+    "vietnamese": "thông báo",
+    "korean": "알리다, 통보하다"
+  },
+  {
+    "id": 22,
+    "topic": "Business & Office",
+    "english": "office",
+    "pos": "n",
+    "vietnamese": "văn phòng",
+    "korean": "사무실"
+  },
+  {
+    "id": 23,
+    "topic": "Business & Office",
+    "english": "operator",
+    "pos": "n",
+    "vietnamese": "nhân viên tổng đài/vận hành",
+    "korean": "교환원; 조작자"
+  },
+  {
+    "id": 24,
+    "topic": "Business & Office",
+    "english": "personnel",
+    "pos": "n",
+    "vietnamese": "nhân sự",
+    "korean": "인사, 직원"
+  },
+  {
+    "id": 25,
+    "topic": "Business & Office",
+    "english": "postpone",
+    "pos": "v",
+    "vietnamese": "hoãn lại",
+    "korean": "연기하다"
+  },
+  {
+    "id": 26,
+    "topic": "Business & Office",
+    "english": "reception",
+    "pos": "n",
+    "vietnamese": "quầy lễ tân/tiệc đón tiếp",
+    "korean": "접수처; 환영회"
+  },
+  {
+    "id": 27,
+    "topic": "Business & Office",
+    "english": "schedule",
+    "pos": "n/v",
+    "vietnamese": "lịch trình; lên lịch",
+    "korean": "일정; 일정을 잡다"
+  },
+  {
+    "id": 28,
+    "topic": "Business & Office",
+    "english": "staff",
+    "pos": "n",
+    "vietnamese": "nhân viên",
+    "korean": "직원"
+  },
+  {
+    "id": 29,
+    "topic": "Business & Office",
+    "english": "supervisor",
+    "pos": "n",
+    "vietnamese": "giám sát viên",
+    "korean": "감독자"
+  },
+  {
+    "id": 30,
+    "topic": "Business & Office",
+    "english": "workplace",
+    "pos": "n",
+    "vietnamese": "nơi làm việc",
+    "korean": "직장"
+  },
+  {
+    "id": 31,
+    "topic": "Communication & Email",
+    "english": "address",
+    "pos": "n/v",
+    "vietnamese": "địa chỉ; giải quyết",
+    "korean": "주소; 다루다"
+  },
+  {
+    "id": 32,
+    "topic": "Communication & Email",
+    "english": "announcement",
+    "pos": "n",
+    "vietnamese": "thông báo",
+    "korean": "공지, 발표"
+  },
+  {
+    "id": 33,
+    "topic": "Communication & Email",
+    "english": "apologize",
+    "pos": "v",
+    "vietnamese": "xin lỗi",
+    "korean": "사과하다"
+  },
+  {
+    "id": 34,
+    "topic": "Communication & Email",
+    "english": "attachment",
+    "pos": "n",
+    "vietnamese": "tệp đính kèm",
+    "korean": "첨부 파일"
+  },
+  {
+    "id": 35,
+    "topic": "Communication & Email",
+    "english": "broadcast",
+    "pos": "v/n",
+    "vietnamese": "phát sóng/thông báo rộng rãi",
+    "korean": "방송하다; 방송"
+  },
+  {
+    "id": 36,
+    "topic": "Communication & Email",
+    "english": "clarify",
+    "pos": "v",
+    "vietnamese": "làm rõ",
+    "korean": "명확히 하다"
+  },
+  {
+    "id": 37,
+    "topic": "Communication & Email",
+    "english": "confirm",
+    "pos": "v",
+    "vietnamese": "xác nhận",
+    "korean": "확인하다"
+  },
+  {
+    "id": 38,
+    "topic": "Communication & Email",
+    "english": "correspondence",
+    "pos": "n",
+    "vietnamese": "thư từ, trao đổi",
+    "korean": "서신, 통신"
+  },
+  {
+    "id": 39,
+    "topic": "Communication & Email",
+    "english": "deliver",
+    "pos": "v",
+    "vietnamese": "giao, chuyển",
+    "korean": "배달하다, 전달하다"
+  },
+  {
+    "id": 40,
+    "topic": "Communication & Email",
+    "english": "draft",
+    "pos": "n/v",
+    "vietnamese": "bản nháp; soạn thảo",
+    "korean": "초안; 작성하다"
+  },
+  {
+    "id": 41,
+    "topic": "Communication & Email",
+    "english": "enclose",
+    "pos": "v",
+    "vietnamese": "đính kèm/kèm theo",
+    "korean": "동봉하다"
+  },
+  {
+    "id": 42,
+    "topic": "Communication & Email",
+    "english": "forward",
+    "pos": "v",
+    "vietnamese": "chuyển tiếp",
+    "korean": "전달하다, 전달 메일 보내다"
+  },
+  {
+    "id": 43,
+    "topic": "Communication & Email",
+    "english": "inform",
+    "pos": "v",
+    "vietnamese": "thông báo",
+    "korean": "알리다"
+  },
+  {
+    "id": 44,
+    "topic": "Communication & Email",
+    "english": "message",
+    "pos": "n",
+    "vietnamese": "tin nhắn",
+    "korean": "메시지"
+  },
+  {
+    "id": 45,
+    "topic": "Communication & Email",
+    "english": "notice",
+    "pos": "n",
+    "vietnamese": "thông báo",
+    "korean": "공지"
+  },
+  {
+    "id": 46,
+    "topic": "Communication & Email",
+    "english": "recipient",
+    "pos": "n",
+    "vietnamese": "người nhận",
+    "korean": "수신자"
+  },
+  {
+    "id": 47,
+    "topic": "Communication & Email",
+    "english": "reply",
+    "pos": "v/n",
+    "vietnamese": "trả lời",
+    "korean": "답장하다; 답장"
+  },
+  {
+    "id": 48,
+    "topic": "Communication & Email",
+    "english": "request",
+    "pos": "v/n",
+    "vietnamese": "yêu cầu",
+    "korean": "요청하다; 요청"
+  },
+  {
+    "id": 49,
+    "topic": "Communication & Email",
+    "english": "respond",
+    "pos": "v",
+    "vietnamese": "phản hồi",
+    "korean": "응답하다"
+  },
+  {
+    "id": 50,
+    "topic": "Communication & Email",
+    "english": "signature",
+    "pos": "n",
+    "vietnamese": "chữ ký",
+    "korean": "서명"
+  },
+  {
+    "id": 51,
+    "topic": "Communication & Email",
+    "english": "subject",
+    "pos": "n",
+    "vietnamese": "chủ đề/tiêu đề email",
+    "korean": "제목, 주제"
+  },
+  {
+    "id": 52,
+    "topic": "Communication & Email",
+    "english": "submit",
+    "pos": "v",
+    "vietnamese": "nộp",
+    "korean": "제출하다"
+  },
+  {
+    "id": 53,
+    "topic": "Communication & Email",
+    "english": "subscribe",
+    "pos": "v",
+    "vietnamese": "đăng ký nhận",
+    "korean": "구독하다"
+  },
+  {
+    "id": 54,
+    "topic": "Communication & Email",
+    "english": "survey",
+    "pos": "n",
+    "vietnamese": "khảo sát",
+    "korean": "설문 조사"
+  },
+  {
+    "id": 55,
+    "topic": "Communication & Email",
+    "english": "update",
+    "pos": "v/n",
+    "vietnamese": "cập nhật",
+    "korean": "업데이트하다; 갱신"
+  },
+  {
+    "id": 56,
+    "topic": "Communication & Email",
+    "english": "urgent",
+    "pos": "adj",
+    "vietnamese": "khẩn cấp",
+    "korean": "긴급한"
+  },
+  {
+    "id": 57,
+    "topic": "Communication & Email",
+    "english": "voicemail",
+    "pos": "n",
+    "vietnamese": "thư thoại",
+    "korean": "음성 메시지"
+  },
+  {
+    "id": 58,
+    "topic": "Communication & Email",
+    "english": "webinar",
+    "pos": "n",
+    "vietnamese": "hội thảo trực tuyến",
+    "korean": "웹 세미나"
+  },
+  {
+    "id": 59,
+    "topic": "Communication & Email",
+    "english": "withdraw",
+    "pos": "v",
+    "vietnamese": "rút lại",
+    "korean": "철회하다"
+  },
+  {
+    "id": 60,
+    "topic": "Communication & Email",
+    "english": "write",
+    "pos": "v",
+    "vietnamese": "viết",
+    "korean": "쓰다, 작성하다"
+  },
+  {
+    "id": 61,
+    "topic": "Meetings & Events",
+    "english": "attend",
+    "pos": "v",
+    "vietnamese": "tham dự",
+    "korean": "참석하다"
+  },
+  {
+    "id": 62,
+    "topic": "Meetings & Events",
+    "english": "audience",
+    "pos": "n",
+    "vietnamese": "khán giả/người nghe",
+    "korean": "청중"
+  },
+  {
+    "id": 63,
+    "topic": "Meetings & Events",
+    "english": "banquet",
+    "pos": "n",
+    "vietnamese": "tiệc lớn",
+    "korean": "연회"
+  },
+  {
+    "id": 64,
+    "topic": "Meetings & Events",
+    "english": "ceremony",
+    "pos": "n",
+    "vietnamese": "buổi lễ",
+    "korean": "행사, 의식"
+  },
+  {
+    "id": 65,
+    "topic": "Meetings & Events",
+    "english": "convention",
+    "pos": "n",
+    "vietnamese": "hội nghị/quy ước",
+    "korean": "대회, 총회"
+  },
+  {
+    "id": 66,
+    "topic": "Meetings & Events",
+    "english": "delegate",
+    "pos": "n",
+    "vietnamese": "đại biểu",
+    "korean": "대표"
+  },
+  {
+    "id": 67,
+    "topic": "Meetings & Events",
+    "english": "exhibit",
+    "pos": "v/n",
+    "vietnamese": "trưng bày; triển lãm",
+    "korean": "전시하다; 전시품"
+  },
+  {
+    "id": 68,
+    "topic": "Meetings & Events",
+    "english": "exposition",
+    "pos": "n",
+    "vietnamese": "triển lãm lớn",
+    "korean": "박람회"
+  },
+  {
+    "id": 69,
+    "topic": "Meetings & Events",
+    "english": "host",
+    "pos": "v/n",
+    "vietnamese": "tổ chức; chủ nhà",
+    "korean": "주최하다; 주최자"
+  },
+  {
+    "id": 70,
+    "topic": "Meetings & Events",
+    "english": "itinerary",
+    "pos": "n",
+    "vietnamese": "lịch trình chuyến đi",
+    "korean": "여행 일정"
+  },
+  {
+    "id": 71,
+    "topic": "Meetings & Events",
+    "english": "keynote",
+    "pos": "n",
+    "vietnamese": "bài phát biểu chính",
+    "korean": "기조연설"
+  },
+  {
+    "id": 72,
+    "topic": "Meetings & Events",
+    "english": "participant",
+    "pos": "n",
+    "vietnamese": "người tham gia",
+    "korean": "참가자"
+  },
+  {
+    "id": 73,
+    "topic": "Meetings & Events",
+    "english": "presentation",
+    "pos": "n",
+    "vietnamese": "bài thuyết trình",
+    "korean": "발표"
+  },
+  {
+    "id": 74,
+    "topic": "Meetings & Events",
+    "english": "registration",
+    "pos": "n",
+    "vietnamese": "đăng ký",
+    "korean": "등록"
+  },
+  {
+    "id": 75,
+    "topic": "Meetings & Events",
+    "english": "reservation",
+    "pos": "n",
+    "vietnamese": "đặt chỗ",
+    "korean": "예약"
+  },
+  {
+    "id": 76,
+    "topic": "Meetings & Events",
+    "english": "session",
+    "pos": "n",
+    "vietnamese": "phiên họp/buổi học",
+    "korean": "세션, 회기"
+  },
+  {
+    "id": 77,
+    "topic": "Meetings & Events",
+    "english": "speaker",
+    "pos": "n",
+    "vietnamese": "diễn giả/loa",
+    "korean": "연사; 스피커"
+  },
+  {
+    "id": 78,
+    "topic": "Meetings & Events",
+    "english": "sponsor",
+    "pos": "n/v",
+    "vietnamese": "nhà tài trợ; tài trợ",
+    "korean": "후원자; 후원하다"
+  },
+  {
+    "id": 79,
+    "topic": "Meetings & Events",
+    "english": "venue",
+    "pos": "n",
+    "vietnamese": "địa điểm tổ chức",
+    "korean": "장소"
+  },
+  {
+    "id": 80,
+    "topic": "Meetings & Events",
+    "english": "workshop",
+    "pos": "n",
+    "vietnamese": "hội thảo thực hành",
+    "korean": "워크숍"
+  },
+  {
+    "id": 81,
+    "topic": "Meetings & Events",
+    "english": "caterer",
+    "pos": "n",
+    "vietnamese": "đơn vị cung cấp đồ ăn",
+    "korean": "출장 음식 업체"
+  },
+  {
+    "id": 82,
+    "topic": "Meetings & Events",
+    "english": "refreshment",
+    "pos": "n",
+    "vietnamese": "đồ ăn/uống nhẹ",
+    "korean": "다과"
+  },
+  {
+    "id": 83,
+    "topic": "Meetings & Events",
+    "english": "invitation",
+    "pos": "n",
+    "vietnamese": "lời mời",
+    "korean": "초대장"
+  },
+  {
+    "id": 84,
+    "topic": "Meetings & Events",
+    "english": "badge",
+    "pos": "n",
+    "vietnamese": "thẻ tên",
+    "korean": "명찰"
+  },
+  {
+    "id": 85,
+    "topic": "Meetings & Events",
+    "english": "booth",
+    "pos": "n",
+    "vietnamese": "gian hàng",
+    "korean": "부스"
+  },
+  {
+    "id": 86,
+    "topic": "Meetings & Events",
+    "english": "capacity",
+    "pos": "n",
+    "vietnamese": "sức chứa/năng lực",
+    "korean": "수용 인원; 능력"
+  },
+  {
+    "id": 87,
+    "topic": "Meetings & Events",
+    "english": "cancel",
+    "pos": "v",
+    "vietnamese": "hủy",
+    "korean": "취소하다"
+  },
+  {
+    "id": 88,
+    "topic": "Meetings & Events",
+    "english": "opening",
+    "pos": "n",
+    "vietnamese": "khai mạc/chỗ trống",
+    "korean": "개막; 공석"
+  },
+  {
+    "id": 89,
+    "topic": "Meetings & Events",
+    "english": "rehearsal",
+    "pos": "n",
+    "vietnamese": "buổi tổng duyệt",
+    "korean": "리허설"
+  },
+  {
+    "id": 90,
+    "topic": "Meetings & Events",
+    "english": "usher",
+    "pos": "n/v",
+    "vietnamese": "người hướng dẫn chỗ; dẫn vào",
+    "korean": "안내원; 안내하다"
+  },
+  {
+    "id": 91,
+    "topic": "Travel & Transportation",
+    "english": "accommodation",
+    "pos": "n",
+    "vietnamese": "chỗ ở",
+    "korean": "숙박 시설"
+  },
+  {
+    "id": 92,
+    "topic": "Travel & Transportation",
+    "english": "aisle",
+    "pos": "n",
+    "vietnamese": "lối đi",
+    "korean": "통로"
+  },
+  {
+    "id": 93,
+    "topic": "Travel & Transportation",
+    "english": "arrival",
+    "pos": "n",
+    "vietnamese": "sự đến",
+    "korean": "도착"
+  },
+  {
+    "id": 94,
+    "topic": "Travel & Transportation",
+    "english": "baggage",
+    "pos": "n",
+    "vietnamese": "hành lý",
+    "korean": "수하물"
+  },
+  {
+    "id": 95,
+    "topic": "Travel & Transportation",
+    "english": "boarding",
+    "pos": "n",
+    "vietnamese": "việc lên máy bay/tàu",
+    "korean": "탑승"
+  },
+  {
+    "id": 96,
+    "topic": "Travel & Transportation",
+    "english": "commute",
+    "pos": "v/n",
+    "vietnamese": "đi lại hằng ngày",
+    "korean": "통근하다; 통근"
+  },
+  {
+    "id": 97,
+    "topic": "Travel & Transportation",
+    "english": "departure",
+    "pos": "n",
+    "vietnamese": "sự khởi hành",
+    "korean": "출발"
+  },
+  {
+    "id": 98,
+    "topic": "Travel & Transportation",
+    "english": "destination",
+    "pos": "n",
+    "vietnamese": "điểm đến",
+    "korean": "목적지"
+  },
+  {
+    "id": 99,
+    "topic": "Travel & Transportation",
+    "english": "fare",
+    "pos": "n",
+    "vietnamese": "giá vé",
+    "korean": "요금"
+  },
+  {
+    "id": 100,
+    "topic": "Travel & Transportation",
+    "english": "flight",
+    "pos": "n",
+    "vietnamese": "chuyến bay",
+    "korean": "항공편"
+  },
+  {
+    "id": 101,
+    "topic": "Travel & Transportation",
+    "english": "gate",
+    "pos": "n",
+    "vietnamese": "cổng",
+    "korean": "게이트"
+  },
+  {
+    "id": 102,
+    "topic": "Travel & Transportation",
+    "english": "luggage",
+    "pos": "n",
+    "vietnamese": "hành lý",
+    "korean": "짐, 수하물"
+  },
+  {
+    "id": 103,
+    "topic": "Travel & Transportation",
+    "english": "passenger",
+    "pos": "n",
+    "vietnamese": "hành khách",
+    "korean": "승객"
+  },
+  {
+    "id": 104,
+    "topic": "Travel & Transportation",
+    "english": "platform",
+    "pos": "n",
+    "vietnamese": "sân ga",
+    "korean": "승강장"
+  },
+  {
+    "id": 105,
+    "topic": "Travel & Transportation",
+    "english": "route",
+    "pos": "n",
+    "vietnamese": "tuyến đường",
+    "korean": "노선"
+  },
+  {
+    "id": 106,
+    "topic": "Travel & Transportation",
+    "english": "shuttle",
+    "pos": "n",
+    "vietnamese": "xe đưa đón",
+    "korean": "셔틀"
+  },
+  {
+    "id": 107,
+    "topic": "Travel & Transportation",
+    "english": "transfer",
+    "pos": "v/n",
+    "vietnamese": "chuyển/chuyển tiếp",
+    "korean": "갈아타다; 환승"
+  },
+  {
+    "id": 108,
+    "topic": "Travel & Transportation",
+    "english": "transit",
+    "pos": "n",
+    "vietnamese": "quá cảnh/giao thông công cộng",
+    "korean": "환승; 대중교통"
+  },
+  {
+    "id": 109,
+    "topic": "Travel & Transportation",
+    "english": "visa",
+    "pos": "n",
+    "vietnamese": "thị thực",
+    "korean": "비자"
+  },
+  {
+    "id": 110,
+    "topic": "Travel & Transportation",
+    "english": "vehicle",
+    "pos": "n",
+    "vietnamese": "phương tiện",
+    "korean": "차량"
+  },
+  {
+    "id": 111,
+    "topic": "Travel & Transportation",
+    "english": "delay",
+    "pos": "n/v",
+    "vietnamese": "sự chậm trễ; trì hoãn",
+    "korean": "지연; 지연되다"
+  },
+  {
+    "id": 112,
+    "topic": "Travel & Transportation",
+    "english": "itinerary",
+    "pos": "n",
+    "vietnamese": "lịch trình",
+    "korean": "일정표"
+  },
+  {
+    "id": 113,
+    "topic": "Travel & Transportation",
+    "english": "terminal",
+    "pos": "n",
+    "vietnamese": "nhà ga/sân bay",
+    "korean": "터미널"
+  },
+  {
+    "id": 114,
+    "topic": "Travel & Transportation",
+    "english": "customs",
+    "pos": "n",
+    "vietnamese": "hải quan",
+    "korean": "세관"
+  },
+  {
+    "id": 115,
+    "topic": "Travel & Transportation",
+    "english": "reservation",
+    "pos": "n",
+    "vietnamese": "đặt chỗ",
+    "korean": "예약"
+  },
+  {
+    "id": 116,
+    "topic": "Travel & Transportation",
+    "english": "rental",
+    "pos": "n/adj",
+    "vietnamese": "thuê; cho thuê",
+    "korean": "임대; 렌탈"
+  },
+  {
+    "id": 117,
+    "topic": "Travel & Transportation",
+    "english": "intersection",
+    "pos": "n",
+    "vietnamese": "ngã tư",
+    "korean": "교차로"
+  },
+  {
+    "id": 118,
+    "topic": "Travel & Transportation",
+    "english": "highway",
+    "pos": "n",
+    "vietnamese": "đường cao tốc",
+    "korean": "고속도로"
+  },
+  {
+    "id": 119,
+    "topic": "Travel & Transportation",
+    "english": "pedestrian",
+    "pos": "n",
+    "vietnamese": "người đi bộ",
+    "korean": "보행자"
+  },
+  {
+    "id": 120,
+    "topic": "Travel & Transportation",
+    "english": "detour",
+    "pos": "n/v",
+    "vietnamese": "đường vòng; đi đường vòng",
+    "korean": "우회로; 우회하다"
+  },
+  {
+    "id": 121,
+    "topic": "Hotels & Restaurants",
+    "english": "amenity",
+    "pos": "n",
+    "vietnamese": "tiện nghi",
+    "korean": "편의시설"
+  },
+  {
+    "id": 122,
+    "topic": "Hotels & Restaurants",
+    "english": "beverage",
+    "pos": "n",
+    "vietnamese": "đồ uống",
+    "korean": "음료"
+  },
+  {
+    "id": 123,
+    "topic": "Hotels & Restaurants",
+    "english": "buffet",
+    "pos": "n",
+    "vietnamese": "tiệc buffet",
+    "korean": "뷔페"
+  },
+  {
+    "id": 124,
+    "topic": "Hotels & Restaurants",
+    "english": "chef",
+    "pos": "n",
+    "vietnamese": "đầu bếp",
+    "korean": "셰프, 요리사"
+  },
+  {
+    "id": 125,
+    "topic": "Hotels & Restaurants",
+    "english": "complimentary",
+    "pos": "adj",
+    "vietnamese": "miễn phí/tặng kèm",
+    "korean": "무료의"
+  },
+  {
+    "id": 126,
+    "topic": "Hotels & Restaurants",
+    "english": "concierge",
+    "pos": "n",
+    "vietnamese": "nhân viên hỗ trợ khách sạn",
+    "korean": "컨시어지"
+  },
+  {
+    "id": 127,
+    "topic": "Hotels & Restaurants",
+    "english": "cuisine",
+    "pos": "n",
+    "vietnamese": "ẩm thực",
+    "korean": "요리, 음식"
+  },
+  {
+    "id": 128,
+    "topic": "Hotels & Restaurants",
+    "english": "dessert",
+    "pos": "n",
+    "vietnamese": "món tráng miệng",
+    "korean": "디저트"
+  },
+  {
+    "id": 129,
+    "topic": "Hotels & Restaurants",
+    "english": "dine",
+    "pos": "v",
+    "vietnamese": "ăn tối/ăn tại nhà hàng",
+    "korean": "식사하다"
+  },
+  {
+    "id": 130,
+    "topic": "Hotels & Restaurants",
+    "english": "facility",
+    "pos": "n",
+    "vietnamese": "cơ sở vật chất",
+    "korean": "시설"
+  },
+  {
+    "id": 131,
+    "topic": "Hotels & Restaurants",
+    "english": "front desk",
+    "pos": "n",
+    "vietnamese": "quầy lễ tân",
+    "korean": "프런트 데스크"
+  },
+  {
+    "id": 132,
+    "topic": "Hotels & Restaurants",
+    "english": "guest",
+    "pos": "n",
+    "vietnamese": "khách",
+    "korean": "손님"
+  },
+  {
+    "id": 133,
+    "topic": "Hotels & Restaurants",
+    "english": "housekeeping",
+    "pos": "n",
+    "vietnamese": "dịch vụ dọn phòng",
+    "korean": "객실 청소"
+  },
+  {
+    "id": 134,
+    "topic": "Hotels & Restaurants",
+    "english": "ingredient",
+    "pos": "n",
+    "vietnamese": "nguyên liệu",
+    "korean": "재료"
+  },
+  {
+    "id": 135,
+    "topic": "Hotels & Restaurants",
+    "english": "menu",
+    "pos": "n",
+    "vietnamese": "thực đơn",
+    "korean": "메뉴"
+  },
+  {
+    "id": 136,
+    "topic": "Hotels & Restaurants",
+    "english": "portion",
+    "pos": "n",
+    "vietnamese": "khẩu phần",
+    "korean": "1인분, 분량"
+  },
+  {
+    "id": 137,
+    "topic": "Hotels & Restaurants",
+    "english": "receipt",
+    "pos": "n",
+    "vietnamese": "hóa đơn/biên nhận",
+    "korean": "영수증"
+  },
+  {
+    "id": 138,
+    "topic": "Hotels & Restaurants",
+    "english": "recommend",
+    "pos": "v",
+    "vietnamese": "giới thiệu/khuyên",
+    "korean": "추천하다"
+  },
+  {
+    "id": 139,
+    "topic": "Hotels & Restaurants",
+    "english": "renovate",
+    "pos": "v",
+    "vietnamese": "cải tạo",
+    "korean": "개조하다, 보수하다"
+  },
+  {
+    "id": 140,
+    "topic": "Hotels & Restaurants",
+    "english": "serve",
+    "pos": "v",
+    "vietnamese": "phục vụ",
+    "korean": "제공하다, 서빙하다"
+  },
+  {
+    "id": 141,
+    "topic": "Hotels & Restaurants",
+    "english": "specialty",
+    "pos": "n",
+    "vietnamese": "món đặc biệt/chuyên môn",
+    "korean": "특선 요리; 전문"
+  },
+  {
+    "id": 142,
+    "topic": "Hotels & Restaurants",
+    "english": "vacancy",
+    "pos": "n",
+    "vietnamese": "phòng trống/vị trí trống",
+    "korean": "빈방; 공석"
+  },
+  {
+    "id": 143,
+    "topic": "Hotels & Restaurants",
+    "english": "waiter",
+    "pos": "n",
+    "vietnamese": "nam phục vụ",
+    "korean": "웨이터"
+  },
+  {
+    "id": 144,
+    "topic": "Hotels & Restaurants",
+    "english": "waitress",
+    "pos": "n",
+    "vietnamese": "nữ phục vụ",
+    "korean": "웨이트리스"
+  },
+  {
+    "id": 145,
+    "topic": "Hotels & Restaurants",
+    "english": "reservation",
+    "pos": "n",
+    "vietnamese": "đặt bàn/phòng",
+    "korean": "예약"
+  },
+  {
+    "id": 146,
+    "topic": "Hotels & Restaurants",
+    "english": "checkout",
+    "pos": "n",
+    "vietnamese": "trả phòng/thanh toán",
+    "korean": "체크아웃"
+  },
+  {
+    "id": 147,
+    "topic": "Hotels & Restaurants",
+    "english": "lobby",
+    "pos": "n",
+    "vietnamese": "sảnh",
+    "korean": "로비"
+  },
+  {
+    "id": 148,
+    "topic": "Hotels & Restaurants",
+    "english": "occupancy",
+    "pos": "n",
+    "vietnamese": "tỷ lệ sử dụng phòng",
+    "korean": "점유율"
+  },
+  {
+    "id": 149,
+    "topic": "Hotels & Restaurants",
+    "english": "suite",
+    "pos": "n",
+    "vietnamese": "phòng cao cấp",
+    "korean": "스위트룸"
+  },
+  {
+    "id": 150,
+    "topic": "Hotels & Restaurants",
+    "english": "tip",
+    "pos": "n/v",
+    "vietnamese": "tiền boa; cho tiền boa",
+    "korean": "팁; 팁을 주다"
+  },
+  {
+    "id": 151,
+    "topic": "Shopping & Sales",
+    "english": "advertise",
+    "pos": "v",
+    "vietnamese": "quảng cáo",
+    "korean": "광고하다"
+  },
+  {
+    "id": 152,
+    "topic": "Shopping & Sales",
+    "english": "aisle",
+    "pos": "n",
+    "vietnamese": "lối đi trong cửa hàng",
+    "korean": "통로"
+  },
+  {
+    "id": 153,
+    "topic": "Shopping & Sales",
+    "english": "bargain",
+    "pos": "n",
+    "vietnamese": "món hời",
+    "korean": "특가품"
+  },
+  {
+    "id": 154,
+    "topic": "Shopping & Sales",
+    "english": "cashier",
+    "pos": "n",
+    "vietnamese": "thu ngân",
+    "korean": "계산원"
+  },
+  {
+    "id": 155,
+    "topic": "Shopping & Sales",
+    "english": "catalog",
+    "pos": "n",
+    "vietnamese": "danh mục sản phẩm",
+    "korean": "카탈로그"
+  },
+  {
+    "id": 156,
+    "topic": "Shopping & Sales",
+    "english": "checkout",
+    "pos": "n",
+    "vietnamese": "quầy thanh toán",
+    "korean": "계산대"
+  },
+  {
+    "id": 157,
+    "topic": "Shopping & Sales",
+    "english": "consumer",
+    "pos": "n",
+    "vietnamese": "người tiêu dùng",
+    "korean": "소비자"
+  },
+  {
+    "id": 158,
+    "topic": "Shopping & Sales",
+    "english": "coupon",
+    "pos": "n",
+    "vietnamese": "phiếu giảm giá",
+    "korean": "쿠폰"
+  },
+  {
+    "id": 159,
+    "topic": "Shopping & Sales",
+    "english": "discount",
+    "pos": "n/v",
+    "vietnamese": "giảm giá",
+    "korean": "할인; 할인하다"
+  },
+  {
+    "id": 160,
+    "topic": "Shopping & Sales",
+    "english": "display",
+    "pos": "n/v",
+    "vietnamese": "trưng bày",
+    "korean": "전시; 진열하다"
+  },
+  {
+    "id": 161,
+    "topic": "Shopping & Sales",
+    "english": "exchange",
+    "pos": "v/n",
+    "vietnamese": "đổi hàng; trao đổi",
+    "korean": "교환하다; 교환"
+  },
+  {
+    "id": 162,
+    "topic": "Shopping & Sales",
+    "english": "merchandise",
+    "pos": "n",
+    "vietnamese": "hàng hóa",
+    "korean": "상품"
+  },
+  {
+    "id": 163,
+    "topic": "Shopping & Sales",
+    "english": "outlet",
+    "pos": "n",
+    "vietnamese": "cửa hàng bán lẻ/outlet",
+    "korean": "아울렛, 판매점"
+  },
+  {
+    "id": 164,
+    "topic": "Shopping & Sales",
+    "english": "purchase",
+    "pos": "v/n",
+    "vietnamese": "mua; sự mua hàng",
+    "korean": "구매하다; 구매"
+  },
+  {
+    "id": 165,
+    "topic": "Shopping & Sales",
+    "english": "refund",
+    "pos": "n/v",
+    "vietnamese": "hoàn tiền",
+    "korean": "환불; 환불하다"
+  },
+  {
+    "id": 166,
+    "topic": "Shopping & Sales",
+    "english": "retail",
+    "pos": "n/adj",
+    "vietnamese": "bán lẻ",
+    "korean": "소매"
+  },
+  {
+    "id": 167,
+    "topic": "Shopping & Sales",
+    "english": "sale",
+    "pos": "n",
+    "vietnamese": "đợt giảm giá/doanh số",
+    "korean": "세일; 판매"
+  },
+  {
+    "id": 168,
+    "topic": "Shopping & Sales",
+    "english": "sample",
+    "pos": "n",
+    "vietnamese": "mẫu thử",
+    "korean": "샘플"
+  },
+  {
+    "id": 169,
+    "topic": "Shopping & Sales",
+    "english": "shelf",
+    "pos": "n",
+    "vietnamese": "kệ hàng",
+    "korean": "선반"
+  },
+  {
+    "id": 170,
+    "topic": "Shopping & Sales",
+    "english": "shopper",
+    "pos": "n",
+    "vietnamese": "người mua sắm",
+    "korean": "쇼핑객"
+  },
+  {
+    "id": 171,
+    "topic": "Shopping & Sales",
+    "english": "stock",
+    "pos": "n/v",
+    "vietnamese": "hàng tồn; dự trữ",
+    "korean": "재고; 비축하다"
+  },
+  {
+    "id": 172,
+    "topic": "Shopping & Sales",
+    "english": "store",
+    "pos": "n",
+    "vietnamese": "cửa hàng",
+    "korean": "가게, 매장"
+  },
+  {
+    "id": 173,
+    "topic": "Shopping & Sales",
+    "english": "tag",
+    "pos": "n",
+    "vietnamese": "nhãn giá/thẻ",
+    "korean": "태그, 가격표"
+  },
+  {
+    "id": 174,
+    "topic": "Shopping & Sales",
+    "english": "transaction",
+    "pos": "n",
+    "vietnamese": "giao dịch",
+    "korean": "거래"
+  },
+  {
+    "id": 175,
+    "topic": "Shopping & Sales",
+    "english": "vendor",
+    "pos": "n",
+    "vietnamese": "người bán/nhà cung cấp",
+    "korean": "판매자, 공급업체"
+  },
+  {
+    "id": 176,
+    "topic": "Shopping & Sales",
+    "english": "warranty",
+    "pos": "n",
+    "vietnamese": "bảo hành",
+    "korean": "보증"
+  },
+  {
+    "id": 177,
+    "topic": "Shopping & Sales",
+    "english": "wholesale",
+    "pos": "n/adj",
+    "vietnamese": "bán buôn",
+    "korean": "도매"
+  },
+  {
+    "id": 178,
+    "topic": "Shopping & Sales",
+    "english": "brand",
+    "pos": "n",
+    "vietnamese": "thương hiệu",
+    "korean": "브랜드"
+  },
+  {
+    "id": 179,
+    "topic": "Shopping & Sales",
+    "english": "customer",
+    "pos": "n",
+    "vietnamese": "khách hàng",
+    "korean": "고객"
+  },
+  {
+    "id": 180,
+    "topic": "Shopping & Sales",
+    "english": "price",
+    "pos": "n",
+    "vietnamese": "giá",
+    "korean": "가격"
+  },
+  {
+    "id": 181,
+    "topic": "Finance & Accounting",
+    "english": "account",
+    "pos": "n",
+    "vietnamese": "tài khoản/sổ sách",
+    "korean": "계좌; 회계"
+  },
+  {
+    "id": 182,
+    "topic": "Finance & Accounting",
+    "english": "accountant",
+    "pos": "n",
+    "vietnamese": "kế toán viên",
+    "korean": "회계사"
+  },
+  {
+    "id": 183,
+    "topic": "Finance & Accounting",
+    "english": "audit",
+    "pos": "n/v",
+    "vietnamese": "kiểm toán",
+    "korean": "감사; 감사하다"
+  },
+  {
+    "id": 184,
+    "topic": "Finance & Accounting",
+    "english": "balance",
+    "pos": "n",
+    "vietnamese": "số dư/cân bằng",
+    "korean": "잔액; 균형"
+  },
+  {
+    "id": 185,
+    "topic": "Finance & Accounting",
+    "english": "budget",
+    "pos": "n/v",
+    "vietnamese": "ngân sách; lập ngân sách",
+    "korean": "예산; 예산을 세우다"
+  },
+  {
+    "id": 186,
+    "topic": "Finance & Accounting",
+    "english": "cash flow",
+    "pos": "n",
+    "vietnamese": "dòng tiền",
+    "korean": "현금 흐름"
+  },
+  {
+    "id": 187,
+    "topic": "Finance & Accounting",
+    "english": "charge",
+    "pos": "n/v",
+    "vietnamese": "phí; tính phí",
+    "korean": "요금; 청구하다"
+  },
+  {
+    "id": 188,
+    "topic": "Finance & Accounting",
+    "english": "cost",
+    "pos": "n/v",
+    "vietnamese": "chi phí; tốn",
+    "korean": "비용; 비용이 들다"
+  },
+  {
+    "id": 189,
+    "topic": "Finance & Accounting",
+    "english": "credit",
+    "pos": "n",
+    "vietnamese": "tín dụng/khoản có",
+    "korean": "신용; 대변"
+  },
+  {
+    "id": 190,
+    "topic": "Finance & Accounting",
+    "english": "debit",
+    "pos": "n",
+    "vietnamese": "khoản nợ/khoản ghi nợ",
+    "korean": "차변"
+  },
+  {
+    "id": 191,
+    "topic": "Finance & Accounting",
+    "english": "deposit",
+    "pos": "n/v",
+    "vietnamese": "tiền đặt cọc; gửi tiền",
+    "korean": "보증금; 입금하다"
+  },
+  {
+    "id": 192,
+    "topic": "Finance & Accounting",
+    "english": "expense",
+    "pos": "n",
+    "vietnamese": "chi phí",
+    "korean": "비용, 지출"
+  },
+  {
+    "id": 193,
+    "topic": "Finance & Accounting",
+    "english": "fee",
+    "pos": "n",
+    "vietnamese": "phí",
+    "korean": "수수료"
+  },
+  {
+    "id": 194,
+    "topic": "Finance & Accounting",
+    "english": "fund",
+    "pos": "n/v",
+    "vietnamese": "quỹ; tài trợ",
+    "korean": "자금; 자금을 대다"
+  },
+  {
+    "id": 195,
+    "topic": "Finance & Accounting",
+    "english": "income",
+    "pos": "n",
+    "vietnamese": "thu nhập",
+    "korean": "소득, 수입"
+  },
+  {
+    "id": 196,
+    "topic": "Finance & Accounting",
+    "english": "invoice",
+    "pos": "n",
+    "vietnamese": "hóa đơn thanh toán",
+    "korean": "청구서"
+  },
+  {
+    "id": 197,
+    "topic": "Finance & Accounting",
+    "english": "loan",
+    "pos": "n",
+    "vietnamese": "khoản vay",
+    "korean": "대출"
+  },
+  {
+    "id": 198,
+    "topic": "Finance & Accounting",
+    "english": "overdue",
+    "pos": "adj",
+    "vietnamese": "quá hạn",
+    "korean": "기한이 지난"
+  },
+  {
+    "id": 199,
+    "topic": "Finance & Accounting",
+    "english": "payroll",
+    "pos": "n",
+    "vietnamese": "bảng lương",
+    "korean": "급여 명부"
+  },
+  {
+    "id": 200,
+    "topic": "Finance & Accounting",
+    "english": "profit",
+    "pos": "n",
+    "vietnamese": "lợi nhuận",
+    "korean": "이익"
+  },
+  {
+    "id": 201,
+    "topic": "Finance & Accounting",
+    "english": "quotation",
+    "pos": "n",
+    "vietnamese": "báo giá",
+    "korean": "견적서"
+  },
+  {
+    "id": 202,
+    "topic": "Finance & Accounting",
+    "english": "receipt",
+    "pos": "n",
+    "vietnamese": "biên lai",
+    "korean": "영수증"
+  },
+  {
+    "id": 203,
+    "topic": "Finance & Accounting",
+    "english": "reimburse",
+    "pos": "v",
+    "vietnamese": "hoàn trả chi phí",
+    "korean": "상환하다, 변제하다"
+  },
+  {
+    "id": 204,
+    "topic": "Finance & Accounting",
+    "english": "revenue",
+    "pos": "n",
+    "vietnamese": "doanh thu",
+    "korean": "매출, 수익"
+  },
+  {
+    "id": 205,
+    "topic": "Finance & Accounting",
+    "english": "salary",
+    "pos": "n",
+    "vietnamese": "lương",
+    "korean": "급여"
+  },
+  {
+    "id": 206,
+    "topic": "Finance & Accounting",
+    "english": "savings",
+    "pos": "n",
+    "vietnamese": "tiền tiết kiệm",
+    "korean": "저축"
+  },
+  {
+    "id": 207,
+    "topic": "Finance & Accounting",
+    "english": "statement",
+    "pos": "n",
+    "vietnamese": "bản sao kê/báo cáo",
+    "korean": "명세서"
+  },
+  {
+    "id": 208,
+    "topic": "Finance & Accounting",
+    "english": "tax",
+    "pos": "n",
+    "vietnamese": "thuế",
+    "korean": "세금"
+  },
+  {
+    "id": 209,
+    "topic": "Finance & Accounting",
+    "english": "withdrawal",
+    "pos": "n",
+    "vietnamese": "rút tiền",
+    "korean": "출금"
+  },
+  {
+    "id": 210,
+    "topic": "Finance & Accounting",
+    "english": "yield",
+    "pos": "n/v",
+    "vietnamese": "lợi suất; sinh ra",
+    "korean": "수익률; 산출하다"
+  },
+  {
+    "id": 211,
+    "topic": "Contracts & Legal",
+    "english": "agreement",
+    "pos": "n",
+    "vietnamese": "thỏa thuận",
+    "korean": "합의, 계약"
+  },
+  {
+    "id": 212,
+    "topic": "Contracts & Legal",
+    "english": "amend",
+    "pos": "v",
+    "vietnamese": "sửa đổi",
+    "korean": "수정하다"
+  },
+  {
+    "id": 213,
+    "topic": "Contracts & Legal",
+    "english": "clause",
+    "pos": "n",
+    "vietnamese": "điều khoản",
+    "korean": "조항"
+  },
+  {
+    "id": 214,
+    "topic": "Contracts & Legal",
+    "english": "comply",
+    "pos": "v",
+    "vietnamese": "tuân thủ",
+    "korean": "준수하다"
+  },
+  {
+    "id": 215,
+    "topic": "Contracts & Legal",
+    "english": "condition",
+    "pos": "n",
+    "vietnamese": "điều kiện",
+    "korean": "조건"
+  },
+  {
+    "id": 216,
+    "topic": "Contracts & Legal",
+    "english": "confidential",
+    "pos": "adj",
+    "vietnamese": "bảo mật",
+    "korean": "기밀의"
+  },
+  {
+    "id": 217,
+    "topic": "Contracts & Legal",
+    "english": "consent",
+    "pos": "n/v",
+    "vietnamese": "sự đồng ý; đồng ý",
+    "korean": "동의; 동의하다"
+  },
+  {
+    "id": 218,
+    "topic": "Contracts & Legal",
+    "english": "contract",
+    "pos": "n/v",
+    "vietnamese": "hợp đồng; ký hợp đồng",
+    "korean": "계약; 계약하다"
+  },
+  {
+    "id": 219,
+    "topic": "Contracts & Legal",
+    "english": "deadline",
+    "pos": "n",
+    "vietnamese": "hạn chót",
+    "korean": "마감일"
+  },
+  {
+    "id": 220,
+    "topic": "Contracts & Legal",
+    "english": "dispute",
+    "pos": "n/v",
+    "vietnamese": "tranh chấp",
+    "korean": "분쟁; 논쟁하다"
+  },
+  {
+    "id": 221,
+    "topic": "Contracts & Legal",
+    "english": "effective",
+    "pos": "adj",
+    "vietnamese": "có hiệu lực/hiệu quả",
+    "korean": "효력이 있는; 효과적인"
+  },
+  {
+    "id": 222,
+    "topic": "Contracts & Legal",
+    "english": "expire",
+    "pos": "v",
+    "vietnamese": "hết hạn",
+    "korean": "만료되다"
+  },
+  {
+    "id": 223,
+    "topic": "Contracts & Legal",
+    "english": "extension",
+    "pos": "n",
+    "vietnamese": "gia hạn",
+    "korean": "연장"
+  },
+  {
+    "id": 224,
+    "topic": "Contracts & Legal",
+    "english": "guarantee",
+    "pos": "n/v",
+    "vietnamese": "bảo đảm",
+    "korean": "보증; 보장하다"
+  },
+  {
+    "id": 225,
+    "topic": "Contracts & Legal",
+    "english": "liability",
+    "pos": "n",
+    "vietnamese": "trách nhiệm pháp lý",
+    "korean": "책임, 부채"
+  },
+  {
+    "id": 226,
+    "topic": "Contracts & Legal",
+    "english": "license",
+    "pos": "n/v",
+    "vietnamese": "giấy phép; cấp phép",
+    "korean": "허가증; 허가하다"
+  },
+  {
+    "id": 227,
+    "topic": "Contracts & Legal",
+    "english": "obligation",
+    "pos": "n",
+    "vietnamese": "nghĩa vụ",
+    "korean": "의무"
+  },
+  {
+    "id": 228,
+    "topic": "Contracts & Legal",
+    "english": "policy",
+    "pos": "n",
+    "vietnamese": "chính sách",
+    "korean": "정책"
+  },
+  {
+    "id": 229,
+    "topic": "Contracts & Legal",
+    "english": "prohibit",
+    "pos": "v",
+    "vietnamese": "cấm",
+    "korean": "금지하다"
+  },
+  {
+    "id": 230,
+    "topic": "Contracts & Legal",
+    "english": "proposal",
+    "pos": "n",
+    "vietnamese": "đề xuất",
+    "korean": "제안서"
+  },
+  {
+    "id": 231,
+    "topic": "Contracts & Legal",
+    "english": "regulation",
+    "pos": "n",
+    "vietnamese": "quy định",
+    "korean": "규정"
+  },
+  {
+    "id": 232,
+    "topic": "Contracts & Legal",
+    "english": "renew",
+    "pos": "v",
+    "vietnamese": "gia hạn/làm mới",
+    "korean": "갱신하다"
+  },
+  {
+    "id": 233,
+    "topic": "Contracts & Legal",
+    "english": "requirement",
+    "pos": "n",
+    "vietnamese": "yêu cầu",
+    "korean": "요구사항"
+  },
+  {
+    "id": 234,
+    "topic": "Contracts & Legal",
+    "english": "signature",
+    "pos": "n",
+    "vietnamese": "chữ ký",
+    "korean": "서명"
+  },
+  {
+    "id": 235,
+    "topic": "Contracts & Legal",
+    "english": "term",
+    "pos": "n",
+    "vietnamese": "điều khoản/kỳ hạn",
+    "korean": "조건; 기간"
+  },
+  {
+    "id": 236,
+    "topic": "Contracts & Legal",
+    "english": "terminate",
+    "pos": "v",
+    "vietnamese": "chấm dứt",
+    "korean": "종료하다"
+  },
+  {
+    "id": 237,
+    "topic": "Contracts & Legal",
+    "english": "valid",
+    "pos": "adj",
+    "vietnamese": "hợp lệ/có hiệu lực",
+    "korean": "유효한"
+  },
+  {
+    "id": 238,
+    "topic": "Contracts & Legal",
+    "english": "violate",
+    "pos": "v",
+    "vietnamese": "vi phạm",
+    "korean": "위반하다"
+  },
+  {
+    "id": 239,
+    "topic": "Contracts & Legal",
+    "english": "waive",
+    "pos": "v",
+    "vietnamese": "từ bỏ quyền",
+    "korean": "포기하다"
+  },
+  {
+    "id": 240,
+    "topic": "Contracts & Legal",
+    "english": "witness",
+    "pos": "n/v",
+    "vietnamese": "nhân chứng; chứng kiến",
+    "korean": "증인; 목격하다"
+  },
+  {
+    "id": 241,
+    "topic": "Employment & HR",
+    "english": "applicant",
+    "pos": "n",
+    "vietnamese": "ứng viên",
+    "korean": "지원자"
+  },
+  {
+    "id": 242,
+    "topic": "Employment & HR",
+    "english": "apply",
+    "pos": "v",
+    "vietnamese": "ứng tuyển/áp dụng",
+    "korean": "지원하다; 적용하다"
+  },
+  {
+    "id": 243,
+    "topic": "Employment & HR",
+    "english": "candidate",
+    "pos": "n",
+    "vietnamese": "ứng viên",
+    "korean": "후보자"
+  },
+  {
+    "id": 244,
+    "topic": "Employment & HR",
+    "english": "career",
+    "pos": "n",
+    "vietnamese": "sự nghiệp",
+    "korean": "경력, 직업"
+  },
+  {
+    "id": 245,
+    "topic": "Employment & HR",
+    "english": "commute",
+    "pos": "v/n",
+    "vietnamese": "đi làm hằng ngày",
+    "korean": "통근하다; 통근"
+  },
+  {
+    "id": 246,
+    "topic": "Employment & HR",
+    "english": "compensation",
+    "pos": "n",
+    "vietnamese": "lương thưởng/bồi thường",
+    "korean": "보상, 급여"
+  },
+  {
+    "id": 247,
+    "topic": "Employment & HR",
+    "english": "experience",
+    "pos": "n",
+    "vietnamese": "kinh nghiệm",
+    "korean": "경험"
+  },
+  {
+    "id": 248,
+    "topic": "Employment & HR",
+    "english": "hire",
+    "pos": "v",
+    "vietnamese": "tuyển dụng",
+    "korean": "고용하다"
+  },
+  {
+    "id": 249,
+    "topic": "Employment & HR",
+    "english": "interview",
+    "pos": "n/v",
+    "vietnamese": "phỏng vấn",
+    "korean": "면접; 면접하다"
+  },
+  {
+    "id": 250,
+    "topic": "Employment & HR",
+    "english": "job opening",
+    "pos": "n",
+    "vietnamese": "vị trí tuyển dụng",
+    "korean": "채용 공고"
+  },
+  {
+    "id": 251,
+    "topic": "Employment & HR",
+    "english": "occupation",
+    "pos": "n",
+    "vietnamese": "nghề nghiệp",
+    "korean": "직업"
+  },
+  {
+    "id": 252,
+    "topic": "Employment & HR",
+    "english": "orientation",
+    "pos": "n",
+    "vietnamese": "định hướng/đào tạo nhập môn",
+    "korean": "오리엔테이션"
+  },
+  {
+    "id": 253,
+    "topic": "Employment & HR",
+    "english": "overtime",
+    "pos": "n",
+    "vietnamese": "làm thêm giờ",
+    "korean": "초과근무"
+  },
+  {
+    "id": 254,
+    "topic": "Employment & HR",
+    "english": "position",
+    "pos": "n",
+    "vietnamese": "vị trí công việc",
+    "korean": "직위, 자리"
+  },
+  {
+    "id": 255,
+    "topic": "Employment & HR",
+    "english": "promotion",
+    "pos": "n",
+    "vietnamese": "thăng chức/khuyến mãi",
+    "korean": "승진; 판촉"
+  },
+  {
+    "id": 256,
+    "topic": "Employment & HR",
+    "english": "qualification",
+    "pos": "n",
+    "vietnamese": "trình độ/điều kiện",
+    "korean": "자격"
+  },
+  {
+    "id": 257,
+    "topic": "Employment & HR",
+    "english": "recruit",
+    "pos": "v",
+    "vietnamese": "tuyển mộ",
+    "korean": "모집하다"
+  },
+  {
+    "id": 258,
+    "topic": "Employment & HR",
+    "english": "reference",
+    "pos": "n",
+    "vietnamese": "người giới thiệu/tài liệu tham khảo",
+    "korean": "추천인; 참고"
+  },
+  {
+    "id": 259,
+    "topic": "Employment & HR",
+    "english": "resign",
+    "pos": "v",
+    "vietnamese": "từ chức/nghỉ việc",
+    "korean": "사직하다"
+  },
+  {
+    "id": 260,
+    "topic": "Employment & HR",
+    "english": "resume",
+    "pos": "n",
+    "vietnamese": "sơ yếu lý lịch",
+    "korean": "이력서"
+  },
+  {
+    "id": 261,
+    "topic": "Employment & HR",
+    "english": "retire",
+    "pos": "v",
+    "vietnamese": "nghỉ hưu",
+    "korean": "퇴직하다"
+  },
+  {
+    "id": 262,
+    "topic": "Employment & HR",
+    "english": "shift",
+    "pos": "n",
+    "vietnamese": "ca làm",
+    "korean": "근무조"
+  },
+  {
+    "id": 263,
+    "topic": "Employment & HR",
+    "english": "skill",
+    "pos": "n",
+    "vietnamese": "kỹ năng",
+    "korean": "기술, 능력"
+  },
+  {
+    "id": 264,
+    "topic": "Employment & HR",
+    "english": "staffing",
+    "pos": "n",
+    "vietnamese": "bố trí nhân sự",
+    "korean": "인력 배치"
+  },
+  {
+    "id": 265,
+    "topic": "Employment & HR",
+    "english": "temporary",
+    "pos": "adj",
+    "vietnamese": "tạm thời",
+    "korean": "임시의"
+  },
+  {
+    "id": 266,
+    "topic": "Employment & HR",
+    "english": "trainee",
+    "pos": "n",
+    "vietnamese": "người được đào tạo",
+    "korean": "연수생"
+  },
+  {
+    "id": 267,
+    "topic": "Employment & HR",
+    "english": "training",
+    "pos": "n",
+    "vietnamese": "đào tạo",
+    "korean": "교육, 훈련"
+  },
+  {
+    "id": 268,
+    "topic": "Employment & HR",
+    "english": "vacancy",
+    "pos": "n",
+    "vietnamese": "vị trí trống",
+    "korean": "공석"
+  },
+  {
+    "id": 269,
+    "topic": "Employment & HR",
+    "english": "wage",
+    "pos": "n",
+    "vietnamese": "tiền công",
+    "korean": "임금"
+  },
+  {
+    "id": 270,
+    "topic": "Employment & HR",
+    "english": "workforce",
+    "pos": "n",
+    "vietnamese": "lực lượng lao động",
+    "korean": "노동력"
+  },
+  {
+    "id": 271,
+    "topic": "Marketing & Advertising",
+    "english": "campaign",
+    "pos": "n",
+    "vietnamese": "chiến dịch",
+    "korean": "캠페인"
+  },
+  {
+    "id": 272,
+    "topic": "Marketing & Advertising",
+    "english": "client",
+    "pos": "n",
+    "vietnamese": "khách hàng/khách thuê dịch vụ",
+    "korean": "고객, 의뢰인"
+  },
+  {
+    "id": 273,
+    "topic": "Marketing & Advertising",
+    "english": "commercial",
+    "pos": "n/adj",
+    "vietnamese": "quảng cáo; thương mại",
+    "korean": "광고; 상업의"
+  },
+  {
+    "id": 274,
+    "topic": "Marketing & Advertising",
+    "english": "competition",
+    "pos": "n",
+    "vietnamese": "sự cạnh tranh",
+    "korean": "경쟁"
+  },
+  {
+    "id": 275,
+    "topic": "Marketing & Advertising",
+    "english": "consumer",
+    "pos": "n",
+    "vietnamese": "người tiêu dùng",
+    "korean": "소비자"
+  },
+  {
+    "id": 276,
+    "topic": "Marketing & Advertising",
+    "english": "demographic",
+    "pos": "n/adj",
+    "vietnamese": "nhóm nhân khẩu học",
+    "korean": "인구통계학적 집단"
+  },
+  {
+    "id": 277,
+    "topic": "Marketing & Advertising",
+    "english": "distribute",
+    "pos": "v",
+    "vietnamese": "phân phối",
+    "korean": "배포하다, 유통하다"
+  },
+  {
+    "id": 278,
+    "topic": "Marketing & Advertising",
+    "english": "exposure",
+    "pos": "n",
+    "vietnamese": "sự tiếp xúc/độ nhận diện",
+    "korean": "노출"
+  },
+  {
+    "id": 279,
+    "topic": "Marketing & Advertising",
+    "english": "feedback",
+    "pos": "n",
+    "vietnamese": "phản hồi",
+    "korean": "피드백"
+  },
+  {
+    "id": 280,
+    "topic": "Marketing & Advertising",
+    "english": "flyer",
+    "pos": "n",
+    "vietnamese": "tờ rơi",
+    "korean": "전단지"
+  },
+  {
+    "id": 281,
+    "topic": "Marketing & Advertising",
+    "english": "launch",
+    "pos": "v/n",
+    "vietnamese": "ra mắt",
+    "korean": "출시하다; 출시"
+  },
+  {
+    "id": 282,
+    "topic": "Marketing & Advertising",
+    "english": "market",
+    "pos": "n/v",
+    "vietnamese": "thị trường; tiếp thị",
+    "korean": "시장; 마케팅하다"
+  },
+  {
+    "id": 283,
+    "topic": "Marketing & Advertising",
+    "english": "newsletter",
+    "pos": "n",
+    "vietnamese": "bản tin",
+    "korean": "뉴스레터"
+  },
+  {
+    "id": 284,
+    "topic": "Marketing & Advertising",
+    "english": "promote",
+    "pos": "v",
+    "vietnamese": "quảng bá/thăng chức",
+    "korean": "홍보하다; 승진시키다"
+  },
+  {
+    "id": 285,
+    "topic": "Marketing & Advertising",
+    "english": "publicity",
+    "pos": "n",
+    "vietnamese": "sự quảng bá công chúng",
+    "korean": "홍보"
+  },
+  {
+    "id": 286,
+    "topic": "Marketing & Advertising",
+    "english": "rating",
+    "pos": "n",
+    "vietnamese": "đánh giá/xếp hạng",
+    "korean": "평점, 등급"
+  },
+  {
+    "id": 287,
+    "topic": "Marketing & Advertising",
+    "english": "recognition",
+    "pos": "n",
+    "vietnamese": "sự nhận diện/công nhận",
+    "korean": "인지도; 인정"
+  },
+  {
+    "id": 288,
+    "topic": "Marketing & Advertising",
+    "english": "representative",
+    "pos": "n",
+    "vietnamese": "đại diện",
+    "korean": "대표자"
+  },
+  {
+    "id": 289,
+    "topic": "Marketing & Advertising",
+    "english": "research",
+    "pos": "n/v",
+    "vietnamese": "nghiên cứu",
+    "korean": "조사; 연구하다"
+  },
+  {
+    "id": 290,
+    "topic": "Marketing & Advertising",
+    "english": "sample",
+    "pos": "n",
+    "vietnamese": "mẫu",
+    "korean": "샘플"
+  },
+  {
+    "id": 291,
+    "topic": "Marketing & Advertising",
+    "english": "slogan",
+    "pos": "n",
+    "vietnamese": "khẩu hiệu",
+    "korean": "슬로건"
+  },
+  {
+    "id": 292,
+    "topic": "Marketing & Advertising",
+    "english": "strategy",
+    "pos": "n",
+    "vietnamese": "chiến lược",
+    "korean": "전략"
+  },
+  {
+    "id": 293,
+    "topic": "Marketing & Advertising",
+    "english": "survey",
+    "pos": "n/v",
+    "vietnamese": "khảo sát",
+    "korean": "설문조사; 조사하다"
+  },
+  {
+    "id": 294,
+    "topic": "Marketing & Advertising",
+    "english": "target",
+    "pos": "n/v",
+    "vietnamese": "mục tiêu; nhắm tới",
+    "korean": "목표; 겨냥하다"
+  },
+  {
+    "id": 295,
+    "topic": "Marketing & Advertising",
+    "english": "trend",
+    "pos": "n",
+    "vietnamese": "xu hướng",
+    "korean": "추세"
+  },
+  {
+    "id": 296,
+    "topic": "Marketing & Advertising",
+    "english": "visual",
+    "pos": "adj/n",
+    "vietnamese": "trực quan; hình ảnh",
+    "korean": "시각적인; 시각 자료"
+  },
+  {
+    "id": 297,
+    "topic": "Marketing & Advertising",
+    "english": "brand awareness",
+    "pos": "n",
+    "vietnamese": "độ nhận diện thương hiệu",
+    "korean": "브랜드 인지도"
+  },
+  {
+    "id": 298,
+    "topic": "Marketing & Advertising",
+    "english": "brochure",
+    "pos": "n",
+    "vietnamese": "tờ giới thiệu",
+    "korean": "브로슈어"
+  },
+  {
+    "id": 299,
+    "topic": "Marketing & Advertising",
+    "english": "customer base",
+    "pos": "n",
+    "vietnamese": "tệp khách hàng",
+    "korean": "고객층"
+  },
+  {
+    "id": 300,
+    "topic": "Marketing & Advertising",
+    "english": "endorse",
+    "pos": "v",
+    "vietnamese": "ủng hộ/quảng bá",
+    "korean": "지지하다, 보증하다"
+  },
+  {
+    "id": 301,
+    "topic": "Manufacturing & Engineering",
+    "english": "assemble",
+    "pos": "v",
+    "vietnamese": "lắp ráp",
+    "korean": "조립하다"
+  },
+  {
+    "id": 302,
+    "topic": "Manufacturing & Engineering",
+    "english": "component",
+    "pos": "n",
+    "vietnamese": "linh kiện/thành phần",
+    "korean": "부품, 구성요소"
+  },
+  {
+    "id": 303,
+    "topic": "Manufacturing & Engineering",
+    "english": "defect",
+    "pos": "n",
+    "vietnamese": "lỗi, khuyết tật",
+    "korean": "결함"
+  },
+  {
+    "id": 304,
+    "topic": "Manufacturing & Engineering",
+    "english": "design",
+    "pos": "n/v",
+    "vietnamese": "thiết kế",
+    "korean": "설계; 설계하다"
+  },
+  {
+    "id": 305,
+    "topic": "Manufacturing & Engineering",
+    "english": "device",
+    "pos": "n",
+    "vietnamese": "thiết bị",
+    "korean": "장치"
+  },
+  {
+    "id": 306,
+    "topic": "Manufacturing & Engineering",
+    "english": "dimension",
+    "pos": "n",
+    "vietnamese": "kích thước",
+    "korean": "치수"
+  },
+  {
+    "id": 307,
+    "topic": "Manufacturing & Engineering",
+    "english": "equipment",
+    "pos": "n",
+    "vietnamese": "thiết bị",
+    "korean": "장비"
+  },
+  {
+    "id": 308,
+    "topic": "Manufacturing & Engineering",
+    "english": "fabricate",
+    "pos": "v",
+    "vietnamese": "chế tạo",
+    "korean": "제작하다"
+  },
+  {
+    "id": 309,
+    "topic": "Manufacturing & Engineering",
+    "english": "facility",
+    "pos": "n",
+    "vietnamese": "nhà xưởng/cơ sở",
+    "korean": "시설"
+  },
+  {
+    "id": 310,
+    "topic": "Manufacturing & Engineering",
+    "english": "inspect",
+    "pos": "v",
+    "vietnamese": "kiểm tra",
+    "korean": "검사하다"
+  },
+  {
+    "id": 311,
+    "topic": "Manufacturing & Engineering",
+    "english": "install",
+    "pos": "v",
+    "vietnamese": "lắp đặt",
+    "korean": "설치하다"
+  },
+  {
+    "id": 312,
+    "topic": "Manufacturing & Engineering",
+    "english": "maintenance",
+    "pos": "n",
+    "vietnamese": "bảo trì",
+    "korean": "유지보수"
+  },
+  {
+    "id": 313,
+    "topic": "Manufacturing & Engineering",
+    "english": "machinery",
+    "pos": "n",
+    "vietnamese": "máy móc",
+    "korean": "기계류"
+  },
+  {
+    "id": 314,
+    "topic": "Manufacturing & Engineering",
+    "english": "manufacture",
+    "pos": "v/n",
+    "vietnamese": "sản xuất",
+    "korean": "제조하다; 제조"
+  },
+  {
+    "id": 315,
+    "topic": "Manufacturing & Engineering",
+    "english": "material",
+    "pos": "n",
+    "vietnamese": "vật liệu",
+    "korean": "재료"
+  },
+  {
+    "id": 316,
+    "topic": "Manufacturing & Engineering",
+    "english": "mechanical",
+    "pos": "adj",
+    "vietnamese": "cơ khí",
+    "korean": "기계의"
+  },
+  {
+    "id": 317,
+    "topic": "Manufacturing & Engineering",
+    "english": "operate",
+    "pos": "v",
+    "vietnamese": "vận hành",
+    "korean": "작동하다, 운영하다"
+  },
+  {
+    "id": 318,
+    "topic": "Manufacturing & Engineering",
+    "english": "output",
+    "pos": "n",
+    "vietnamese": "sản lượng/đầu ra",
+    "korean": "출력, 생산량"
+  },
+  {
+    "id": 319,
+    "topic": "Manufacturing & Engineering",
+    "english": "process",
+    "pos": "n/v",
+    "vietnamese": "quy trình; xử lý",
+    "korean": "공정; 처리하다"
+  },
+  {
+    "id": 320,
+    "topic": "Manufacturing & Engineering",
+    "english": "prototype",
+    "pos": "n",
+    "vietnamese": "mẫu thử",
+    "korean": "시제품"
+  },
+  {
+    "id": 321,
+    "topic": "Manufacturing & Engineering",
+    "english": "quality control",
+    "pos": "n",
+    "vietnamese": "kiểm soát chất lượng",
+    "korean": "품질 관리"
+  },
+  {
+    "id": 322,
+    "topic": "Manufacturing & Engineering",
+    "english": "repair",
+    "pos": "v/n",
+    "vietnamese": "sửa chữa",
+    "korean": "수리하다; 수리"
+  },
+  {
+    "id": 323,
+    "topic": "Manufacturing & Engineering",
+    "english": "safety",
+    "pos": "n",
+    "vietnamese": "an toàn",
+    "korean": "안전"
+  },
+  {
+    "id": 324,
+    "topic": "Manufacturing & Engineering",
+    "english": "specification",
+    "pos": "n",
+    "vietnamese": "thông số kỹ thuật",
+    "korean": "사양"
+  },
+  {
+    "id": 325,
+    "topic": "Manufacturing & Engineering",
+    "english": "standard",
+    "pos": "n/adj",
+    "vietnamese": "tiêu chuẩn",
+    "korean": "표준"
+  },
+  {
+    "id": 326,
+    "topic": "Manufacturing & Engineering",
+    "english": "tool",
+    "pos": "n",
+    "vietnamese": "dụng cụ",
+    "korean": "공구"
+  },
+  {
+    "id": 327,
+    "topic": "Manufacturing & Engineering",
+    "english": "weld",
+    "pos": "v",
+    "vietnamese": "hàn",
+    "korean": "용접하다"
+  },
+  {
+    "id": 328,
+    "topic": "Manufacturing & Engineering",
+    "english": "workshop",
+    "pos": "n",
+    "vietnamese": "xưởng/buổi thực hành",
+    "korean": "작업장; 워크숍"
+  },
+  {
+    "id": 329,
+    "topic": "Manufacturing & Engineering",
+    "english": "yield",
+    "pos": "n",
+    "vietnamese": "sản lượng/hiệu suất",
+    "korean": "수율, 생산량"
+  },
+  {
+    "id": 330,
+    "topic": "Manufacturing & Engineering",
+    "english": "blueprint",
+    "pos": "n",
+    "vietnamese": "bản vẽ kỹ thuật",
+    "korean": "청사진, 도면"
+  },
+  {
+    "id": 331,
+    "topic": "Technology & IT",
+    "english": "access",
+    "pos": "n/v",
+    "vietnamese": "truy cập",
+    "korean": "접근; 접속하다"
+  },
+  {
+    "id": 332,
+    "topic": "Technology & IT",
+    "english": "backup",
+    "pos": "n/v",
+    "vietnamese": "sao lưu",
+    "korean": "백업; 백업하다"
+  },
+  {
+    "id": 333,
+    "topic": "Technology & IT",
+    "english": "browser",
+    "pos": "n",
+    "vietnamese": "trình duyệt",
+    "korean": "브라우저"
+  },
+  {
+    "id": 334,
+    "topic": "Technology & IT",
+    "english": "database",
+    "pos": "n",
+    "vietnamese": "cơ sở dữ liệu",
+    "korean": "데이터베이스"
+  },
+  {
+    "id": 335,
+    "topic": "Technology & IT",
+    "english": "device",
+    "pos": "n",
+    "vietnamese": "thiết bị",
+    "korean": "장치"
+  },
+  {
+    "id": 336,
+    "topic": "Technology & IT",
+    "english": "download",
+    "pos": "v/n",
+    "vietnamese": "tải xuống",
+    "korean": "다운로드하다"
+  },
+  {
+    "id": 337,
+    "topic": "Technology & IT",
+    "english": "error",
+    "pos": "n",
+    "vietnamese": "lỗi",
+    "korean": "오류"
+  },
+  {
+    "id": 338,
+    "topic": "Technology & IT",
+    "english": "hardware",
+    "pos": "n",
+    "vietnamese": "phần cứng",
+    "korean": "하드웨어"
+  },
+  {
+    "id": 339,
+    "topic": "Technology & IT",
+    "english": "install",
+    "pos": "v",
+    "vietnamese": "cài đặt/lắp đặt",
+    "korean": "설치하다"
+  },
+  {
+    "id": 340,
+    "topic": "Technology & IT",
+    "english": "keyboard",
+    "pos": "n",
+    "vietnamese": "bàn phím",
+    "korean": "키보드"
+  },
+  {
+    "id": 341,
+    "topic": "Technology & IT",
+    "english": "monitor",
+    "pos": "n/v",
+    "vietnamese": "màn hình; giám sát",
+    "korean": "모니터; 감시하다"
+  },
+  {
+    "id": 342,
+    "topic": "Technology & IT",
+    "english": "network",
+    "pos": "n",
+    "vietnamese": "mạng lưới/mạng máy tính",
+    "korean": "네트워크"
+  },
+  {
+    "id": 343,
+    "topic": "Technology & IT",
+    "english": "password",
+    "pos": "n",
+    "vietnamese": "mật khẩu",
+    "korean": "비밀번호"
+  },
+  {
+    "id": 344,
+    "topic": "Technology & IT",
+    "english": "platform",
+    "pos": "n",
+    "vietnamese": "nền tảng",
+    "korean": "플랫폼"
+  },
+  {
+    "id": 345,
+    "topic": "Technology & IT",
+    "english": "privacy",
+    "pos": "n",
+    "vietnamese": "sự riêng tư",
+    "korean": "개인정보 보호"
+  },
+  {
+    "id": 346,
+    "topic": "Technology & IT",
+    "english": "program",
+    "pos": "n/v",
+    "vietnamese": "chương trình; lập trình",
+    "korean": "프로그램; 프로그래밍하다"
+  },
+  {
+    "id": 347,
+    "topic": "Technology & IT",
+    "english": "server",
+    "pos": "n",
+    "vietnamese": "máy chủ",
+    "korean": "서버"
+  },
+  {
+    "id": 348,
+    "topic": "Technology & IT",
+    "english": "software",
+    "pos": "n",
+    "vietnamese": "phần mềm",
+    "korean": "소프트웨어"
+  },
+  {
+    "id": 349,
+    "topic": "Technology & IT",
+    "english": "storage",
+    "pos": "n",
+    "vietnamese": "lưu trữ",
+    "korean": "저장 공간"
+  },
+  {
+    "id": 350,
+    "topic": "Technology & IT",
+    "english": "support",
+    "pos": "n/v",
+    "vietnamese": "hỗ trợ",
+    "korean": "지원; 지원하다"
+  },
+  {
+    "id": 351,
+    "topic": "Technology & IT",
+    "english": "system",
+    "pos": "n",
+    "vietnamese": "hệ thống",
+    "korean": "시스템"
+  },
+  {
+    "id": 352,
+    "topic": "Technology & IT",
+    "english": "technical",
+    "pos": "adj",
+    "vietnamese": "kỹ thuật",
+    "korean": "기술적인"
+  },
+  {
+    "id": 353,
+    "topic": "Technology & IT",
+    "english": "troubleshoot",
+    "pos": "v",
+    "vietnamese": "xử lý sự cố",
+    "korean": "문제를 해결하다"
+  },
+  {
+    "id": 354,
+    "topic": "Technology & IT",
+    "english": "upgrade",
+    "pos": "v/n",
+    "vietnamese": "nâng cấp",
+    "korean": "업그레이드하다; 업그레이드"
+  },
+  {
+    "id": 355,
+    "topic": "Technology & IT",
+    "english": "upload",
+    "pos": "v/n",
+    "vietnamese": "tải lên",
+    "korean": "업로드하다"
+  },
+  {
+    "id": 356,
+    "topic": "Technology & IT",
+    "english": "user",
+    "pos": "n",
+    "vietnamese": "người dùng",
+    "korean": "사용자"
+  },
+  {
+    "id": 357,
+    "topic": "Technology & IT",
+    "english": "wireless",
+    "pos": "adj",
+    "vietnamese": "không dây",
+    "korean": "무선의"
+  },
+  {
+    "id": 358,
+    "topic": "Technology & IT",
+    "english": "application",
+    "pos": "n",
+    "vietnamese": "ứng dụng",
+    "korean": "애플리케이션"
+  },
+  {
+    "id": 359,
+    "topic": "Technology & IT",
+    "english": "configuration",
+    "pos": "n",
+    "vietnamese": "cấu hình",
+    "korean": "설정, 구성"
+  },
+  {
+    "id": 360,
+    "topic": "Technology & IT",
+    "english": "manual",
+    "pos": "n",
+    "vietnamese": "sách hướng dẫn",
+    "korean": "설명서"
+  },
+  {
+    "id": 361,
+    "topic": "Real Estate & Facilities",
+    "english": "apartment",
+    "pos": "n",
+    "vietnamese": "căn hộ",
+    "korean": "아파트"
+  },
+  {
+    "id": 362,
+    "topic": "Real Estate & Facilities",
+    "english": "building",
+    "pos": "n",
+    "vietnamese": "tòa nhà",
+    "korean": "건물"
+  },
+  {
+    "id": 363,
+    "topic": "Real Estate & Facilities",
+    "english": "contractor",
+    "pos": "n",
+    "vietnamese": "nhà thầu",
+    "korean": "시공업체, 계약자"
+  },
+  {
+    "id": 364,
+    "topic": "Real Estate & Facilities",
+    "english": "elevator",
+    "pos": "n",
+    "vietnamese": "thang máy",
+    "korean": "엘리베이터"
+  },
+  {
+    "id": 365,
+    "topic": "Real Estate & Facilities",
+    "english": "entrance",
+    "pos": "n",
+    "vietnamese": "lối vào",
+    "korean": "입구"
+  },
+  {
+    "id": 366,
+    "topic": "Real Estate & Facilities",
+    "english": "facility",
+    "pos": "n",
+    "vietnamese": "cơ sở vật chất",
+    "korean": "시설"
+  },
+  {
+    "id": 367,
+    "topic": "Real Estate & Facilities",
+    "english": "floor",
+    "pos": "n",
+    "vietnamese": "tầng/sàn",
+    "korean": "층; 바닥"
+  },
+  {
+    "id": 368,
+    "topic": "Real Estate & Facilities",
+    "english": "furnish",
+    "pos": "v",
+    "vietnamese": "trang bị nội thất",
+    "korean": "가구를 비치하다"
+  },
+  {
+    "id": 369,
+    "topic": "Real Estate & Facilities",
+    "english": "heating",
+    "pos": "n",
+    "vietnamese": "sưởi ấm",
+    "korean": "난방"
+  },
+  {
+    "id": 370,
+    "topic": "Real Estate & Facilities",
+    "english": "inspection",
+    "pos": "n",
+    "vietnamese": "kiểm tra",
+    "korean": "검사"
+  },
+  {
+    "id": 371,
+    "topic": "Real Estate & Facilities",
+    "english": "lease",
+    "pos": "n/v",
+    "vietnamese": "hợp đồng thuê; cho thuê",
+    "korean": "임대차 계약; 임대하다"
+  },
+  {
+    "id": 372,
+    "topic": "Real Estate & Facilities",
+    "english": "lobby",
+    "pos": "n",
+    "vietnamese": "sảnh",
+    "korean": "로비"
+  },
+  {
+    "id": 373,
+    "topic": "Real Estate & Facilities",
+    "english": "location",
+    "pos": "n",
+    "vietnamese": "vị trí",
+    "korean": "위치"
+  },
+  {
+    "id": 374,
+    "topic": "Real Estate & Facilities",
+    "english": "maintenance",
+    "pos": "n",
+    "vietnamese": "bảo trì",
+    "korean": "유지보수"
+  },
+  {
+    "id": 375,
+    "topic": "Real Estate & Facilities",
+    "english": "occupant",
+    "pos": "n",
+    "vietnamese": "người sử dụng/người ở",
+    "korean": "입주자"
+  },
+  {
+    "id": 376,
+    "topic": "Real Estate & Facilities",
+    "english": "parking",
+    "pos": "n",
+    "vietnamese": "bãi đỗ xe",
+    "korean": "주차"
+  },
+  {
+    "id": 377,
+    "topic": "Real Estate & Facilities",
+    "english": "property",
+    "pos": "n",
+    "vietnamese": "bất động sản/tài sản",
+    "korean": "부동산; 재산"
+  },
+  {
+    "id": 378,
+    "topic": "Real Estate & Facilities",
+    "english": "renovation",
+    "pos": "n",
+    "vietnamese": "cải tạo",
+    "korean": "개조, 보수"
+  },
+  {
+    "id": 379,
+    "topic": "Real Estate & Facilities",
+    "english": "rent",
+    "pos": "n/v",
+    "vietnamese": "tiền thuê; thuê",
+    "korean": "임대료; 빌리다"
+  },
+  {
+    "id": 380,
+    "topic": "Real Estate & Facilities",
+    "english": "repair",
+    "pos": "n/v",
+    "vietnamese": "sửa chữa",
+    "korean": "수리; 수리하다"
+  },
+  {
+    "id": 381,
+    "topic": "Real Estate & Facilities",
+    "english": "resident",
+    "pos": "n",
+    "vietnamese": "cư dân",
+    "korean": "거주자"
+  },
+  {
+    "id": 382,
+    "topic": "Real Estate & Facilities",
+    "english": "security",
+    "pos": "n",
+    "vietnamese": "an ninh",
+    "korean": "보안"
+  },
+  {
+    "id": 383,
+    "topic": "Real Estate & Facilities",
+    "english": "space",
+    "pos": "n",
+    "vietnamese": "không gian/chỗ",
+    "korean": "공간"
+  },
+  {
+    "id": 384,
+    "topic": "Real Estate & Facilities",
+    "english": "tenant",
+    "pos": "n",
+    "vietnamese": "người thuê nhà",
+    "korean": "임차인"
+  },
+  {
+    "id": 385,
+    "topic": "Real Estate & Facilities",
+    "english": "utility",
+    "pos": "n",
+    "vietnamese": "dịch vụ điện nước",
+    "korean": "공공요금, 설비"
+  },
+  {
+    "id": 386,
+    "topic": "Real Estate & Facilities",
+    "english": "vacant",
+    "pos": "adj",
+    "vietnamese": "trống",
+    "korean": "비어 있는"
+  },
+  {
+    "id": 387,
+    "topic": "Real Estate & Facilities",
+    "english": "warehouse",
+    "pos": "n",
+    "vietnamese": "nhà kho",
+    "korean": "창고"
+  },
+  {
+    "id": 388,
+    "topic": "Real Estate & Facilities",
+    "english": "window",
+    "pos": "n",
+    "vietnamese": "cửa sổ",
+    "korean": "창문"
+  },
+  {
+    "id": 389,
+    "topic": "Real Estate & Facilities",
+    "english": "work order",
+    "pos": "n",
+    "vietnamese": "phiếu yêu cầu sửa chữa",
+    "korean": "작업 지시서"
+  },
+  {
+    "id": 390,
+    "topic": "Real Estate & Facilities",
+    "english": "zoning",
+    "pos": "n",
+    "vietnamese": "quy hoạch khu vực",
+    "korean": "용도 지역제"
+  },
+  {
+    "id": 391,
+    "topic": "Health & Safety",
+    "english": "accident",
+    "pos": "n",
+    "vietnamese": "tai nạn",
+    "korean": "사고"
+  },
+  {
+    "id": 392,
+    "topic": "Health & Safety",
+    "english": "aid",
+    "pos": "n/v",
+    "vietnamese": "sự trợ giúp; hỗ trợ",
+    "korean": "도움; 돕다"
+  },
+  {
+    "id": 393,
+    "topic": "Health & Safety",
+    "english": "allergy",
+    "pos": "n",
+    "vietnamese": "dị ứng",
+    "korean": "알레르기"
+  },
+  {
+    "id": 394,
+    "topic": "Health & Safety",
+    "english": "ambulance",
+    "pos": "n",
+    "vietnamese": "xe cứu thương",
+    "korean": "구급차"
+  },
+  {
+    "id": 395,
+    "topic": "Health & Safety",
+    "english": "clinic",
+    "pos": "n",
+    "vietnamese": "phòng khám",
+    "korean": "병원, 클리닉"
+  },
+  {
+    "id": 396,
+    "topic": "Health & Safety",
+    "english": "caution",
+    "pos": "n",
+    "vietnamese": "sự cẩn thận/cảnh báo",
+    "korean": "주의"
+  },
+  {
+    "id": 397,
+    "topic": "Health & Safety",
+    "english": "emergency",
+    "pos": "n",
+    "vietnamese": "khẩn cấp",
+    "korean": "비상사태"
+  },
+  {
+    "id": 398,
+    "topic": "Health & Safety",
+    "english": "evacuate",
+    "pos": "v",
+    "vietnamese": "sơ tán",
+    "korean": "대피하다"
+  },
+  {
+    "id": 399,
+    "topic": "Health & Safety",
+    "english": "exercise",
+    "pos": "n/v",
+    "vietnamese": "tập thể dục",
+    "korean": "운동; 운동하다"
+  },
+  {
+    "id": 400,
+    "topic": "Health & Safety",
+    "english": "hazard",
+    "pos": "n",
+    "vietnamese": "mối nguy",
+    "korean": "위험 요소"
+  },
+  {
+    "id": 401,
+    "topic": "Health & Safety",
+    "english": "healthy",
+    "pos": "adj",
+    "vietnamese": "khỏe mạnh",
+    "korean": "건강한"
+  },
+  {
+    "id": 402,
+    "topic": "Health & Safety",
+    "english": "injury",
+    "pos": "n",
+    "vietnamese": "chấn thương",
+    "korean": "부상"
+  },
+  {
+    "id": 403,
+    "topic": "Health & Safety",
+    "english": "insurance",
+    "pos": "n",
+    "vietnamese": "bảo hiểm",
+    "korean": "보험"
+  },
+  {
+    "id": 404,
+    "topic": "Health & Safety",
+    "english": "medical",
+    "pos": "adj",
+    "vietnamese": "y tế",
+    "korean": "의료의"
+  },
+  {
+    "id": 405,
+    "topic": "Health & Safety",
+    "english": "medicine",
+    "pos": "n",
+    "vietnamese": "thuốc",
+    "korean": "약"
+  },
+  {
+    "id": 406,
+    "topic": "Health & Safety",
+    "english": "patient",
+    "pos": "n",
+    "vietnamese": "bệnh nhân",
+    "korean": "환자"
+  },
+  {
+    "id": 407,
+    "topic": "Health & Safety",
+    "english": "precaution",
+    "pos": "n",
+    "vietnamese": "biện pháp phòng ngừa",
+    "korean": "예방 조치"
+  },
+  {
+    "id": 408,
+    "topic": "Health & Safety",
+    "english": "protective",
+    "pos": "adj",
+    "vietnamese": "bảo hộ/bảo vệ",
+    "korean": "보호용의"
+  },
+  {
+    "id": 409,
+    "topic": "Health & Safety",
+    "english": "recover",
+    "pos": "v",
+    "vietnamese": "hồi phục",
+    "korean": "회복하다"
+  },
+  {
+    "id": 410,
+    "topic": "Health & Safety",
+    "english": "regulation",
+    "pos": "n",
+    "vietnamese": "quy định",
+    "korean": "규정"
+  },
+  {
+    "id": 411,
+    "topic": "Health & Safety",
+    "english": "risk",
+    "pos": "n",
+    "vietnamese": "rủi ro",
+    "korean": "위험"
+  },
+  {
+    "id": 412,
+    "topic": "Health & Safety",
+    "english": "safety gear",
+    "pos": "n",
+    "vietnamese": "đồ bảo hộ",
+    "korean": "안전 장비"
+  },
+  {
+    "id": 413,
+    "topic": "Health & Safety",
+    "english": "sanitize",
+    "pos": "v",
+    "vietnamese": "khử trùng",
+    "korean": "소독하다"
+  },
+  {
+    "id": 414,
+    "topic": "Health & Safety",
+    "english": "symptom",
+    "pos": "n",
+    "vietnamese": "triệu chứng",
+    "korean": "증상"
+  },
+  {
+    "id": 415,
+    "topic": "Health & Safety",
+    "english": "treatment",
+    "pos": "n",
+    "vietnamese": "điều trị",
+    "korean": "치료"
+  },
+  {
+    "id": 416,
+    "topic": "Health & Safety",
+    "english": "vaccine",
+    "pos": "n",
+    "vietnamese": "vắc-xin",
+    "korean": "백신"
+  },
+  {
+    "id": 417,
+    "topic": "Health & Safety",
+    "english": "warning",
+    "pos": "n",
+    "vietnamese": "cảnh báo",
+    "korean": "경고"
+  },
+  {
+    "id": 418,
+    "topic": "Health & Safety",
+    "english": "wellness",
+    "pos": "n",
+    "vietnamese": "sức khỏe tổng thể",
+    "korean": "웰니스, 건강"
+  },
+  {
+    "id": 419,
+    "topic": "Health & Safety",
+    "english": "workplace safety",
+    "pos": "n",
+    "vietnamese": "an toàn lao động",
+    "korean": "작업장 안전"
+  },
+  {
+    "id": 420,
+    "topic": "Health & Safety",
+    "english": "first aid",
+    "pos": "n",
+    "vietnamese": "sơ cứu",
+    "korean": "응급처치"
+  },
+  {
+    "id": 421,
+    "topic": "Customer Service",
+    "english": "assist",
+    "pos": "v",
+    "vietnamese": "hỗ trợ",
+    "korean": "돕다, 지원하다"
+  },
+  {
+    "id": 422,
+    "topic": "Customer Service",
+    "english": "complaint",
+    "pos": "n",
+    "vietnamese": "khiếu nại/phàn nàn",
+    "korean": "불만, 항의"
+  },
+  {
+    "id": 423,
+    "topic": "Customer Service",
+    "english": "courteous",
+    "pos": "adj",
+    "vietnamese": "lịch sự",
+    "korean": "예의 바른"
+  },
+  {
+    "id": 424,
+    "topic": "Customer Service",
+    "english": "customer",
+    "pos": "n",
+    "vietnamese": "khách hàng",
+    "korean": "고객"
+  },
+  {
+    "id": 425,
+    "topic": "Customer Service",
+    "english": "dedicated",
+    "pos": "adj",
+    "vietnamese": "tận tâm/chuyên dụng",
+    "korean": "전담의; 헌신적인"
+  },
+  {
+    "id": 426,
+    "topic": "Customer Service",
+    "english": "exchange",
+    "pos": "v/n",
+    "vietnamese": "đổi hàng",
+    "korean": "교환하다; 교환"
+  },
+  {
+    "id": 427,
+    "topic": "Customer Service",
+    "english": "explain",
+    "pos": "v",
+    "vietnamese": "giải thích",
+    "korean": "설명하다"
+  },
+  {
+    "id": 428,
+    "topic": "Customer Service",
+    "english": "feedback",
+    "pos": "n",
+    "vietnamese": "phản hồi",
+    "korean": "피드백"
+  },
+  {
+    "id": 429,
+    "topic": "Customer Service",
+    "english": "guarantee",
+    "pos": "n/v",
+    "vietnamese": "bảo đảm",
+    "korean": "보증; 보장하다"
+  },
+  {
+    "id": 430,
+    "topic": "Customer Service",
+    "english": "handle",
+    "pos": "v",
+    "vietnamese": "xử lý",
+    "korean": "처리하다"
+  },
+  {
+    "id": 431,
+    "topic": "Customer Service",
+    "english": "inconvenience",
+    "pos": "n",
+    "vietnamese": "sự bất tiện",
+    "korean": "불편"
+  },
+  {
+    "id": 432,
+    "topic": "Customer Service",
+    "english": "loyalty",
+    "pos": "n",
+    "vietnamese": "sự trung thành",
+    "korean": "충성도"
+  },
+  {
+    "id": 433,
+    "topic": "Customer Service",
+    "english": "patron",
+    "pos": "n",
+    "vietnamese": "khách quen",
+    "korean": "단골 고객"
+  },
+  {
+    "id": 434,
+    "topic": "Customer Service",
+    "english": "policy",
+    "pos": "n",
+    "vietnamese": "chính sách",
+    "korean": "정책"
+  },
+  {
+    "id": 435,
+    "topic": "Customer Service",
+    "english": "prompt",
+    "pos": "adj",
+    "vietnamese": "nhanh chóng",
+    "korean": "신속한"
+  },
+  {
+    "id": 436,
+    "topic": "Customer Service",
+    "english": "refund",
+    "pos": "n/v",
+    "vietnamese": "hoàn tiền",
+    "korean": "환불; 환불하다"
+  },
+  {
+    "id": 437,
+    "topic": "Customer Service",
+    "english": "replacement",
+    "pos": "n",
+    "vietnamese": "sự thay thế",
+    "korean": "교체품"
+  },
+  {
+    "id": 438,
+    "topic": "Customer Service",
+    "english": "resolve",
+    "pos": "v",
+    "vietnamese": "giải quyết",
+    "korean": "해결하다"
+  },
+  {
+    "id": 439,
+    "topic": "Customer Service",
+    "english": "satisfaction",
+    "pos": "n",
+    "vietnamese": "sự hài lòng",
+    "korean": "만족"
+  },
+  {
+    "id": 440,
+    "topic": "Customer Service",
+    "english": "service",
+    "pos": "n",
+    "vietnamese": "dịch vụ",
+    "korean": "서비스"
+  },
+  {
+    "id": 441,
+    "topic": "Customer Service",
+    "english": "specialist",
+    "pos": "n",
+    "vietnamese": "chuyên viên",
+    "korean": "전문가"
+  },
+  {
+    "id": 442,
+    "topic": "Customer Service",
+    "english": "survey",
+    "pos": "n/v",
+    "vietnamese": "khảo sát",
+    "korean": "설문조사; 조사하다"
+  },
+  {
+    "id": 443,
+    "topic": "Customer Service",
+    "english": "toll-free",
+    "pos": "adj",
+    "vietnamese": "miễn phí cuộc gọi",
+    "korean": "수신자 부담의"
+  },
+  {
+    "id": 444,
+    "topic": "Customer Service",
+    "english": "warranty",
+    "pos": "n",
+    "vietnamese": "bảo hành",
+    "korean": "보증"
+  },
+  {
+    "id": 445,
+    "topic": "Customer Service",
+    "english": "apology",
+    "pos": "n",
+    "vietnamese": "lời xin lỗi",
+    "korean": "사과"
+  },
+  {
+    "id": 446,
+    "topic": "Customer Service",
+    "english": "representative",
+    "pos": "n",
+    "vietnamese": "nhân viên đại diện",
+    "korean": "상담원, 대표자"
+  },
+  {
+    "id": 447,
+    "topic": "Customer Service",
+    "english": "helpline",
+    "pos": "n",
+    "vietnamese": "đường dây hỗ trợ",
+    "korean": "상담 전화"
+  },
+  {
+    "id": 448,
+    "topic": "Customer Service",
+    "english": "issue",
+    "pos": "n",
+    "vietnamese": "vấn đề",
+    "korean": "문제"
+  },
+  {
+    "id": 449,
+    "topic": "Customer Service",
+    "english": "sincerely",
+    "pos": "adv",
+    "vietnamese": "chân thành",
+    "korean": "진심으로"
+  },
+  {
+    "id": 450,
+    "topic": "Customer Service",
+    "english": "ensure",
+    "pos": "v",
+    "vietnamese": "đảm bảo",
+    "korean": "보장하다"
+  },
+  {
+    "id": 451,
+    "topic": "Education & Training",
+    "english": "assignment",
+    "pos": "n",
+    "vietnamese": "bài tập/nhiệm vụ",
+    "korean": "과제"
+  },
+  {
+    "id": 452,
+    "topic": "Education & Training",
+    "english": "certificate",
+    "pos": "n",
+    "vietnamese": "chứng chỉ",
+    "korean": "수료증, 증명서"
+  },
+  {
+    "id": 453,
+    "topic": "Education & Training",
+    "english": "course",
+    "pos": "n",
+    "vietnamese": "khóa học/môn học",
+    "korean": "강좌, 과목"
+  },
+  {
+    "id": 454,
+    "topic": "Education & Training",
+    "english": "curriculum",
+    "pos": "n",
+    "vietnamese": "chương trình học",
+    "korean": "교육과정"
+  },
+  {
+    "id": 455,
+    "topic": "Education & Training",
+    "english": "degree",
+    "pos": "n",
+    "vietnamese": "bằng cấp",
+    "korean": "학위"
+  },
+  {
+    "id": 456,
+    "topic": "Education & Training",
+    "english": "enroll",
+    "pos": "v",
+    "vietnamese": "đăng ký học",
+    "korean": "등록하다"
+  },
+  {
+    "id": 457,
+    "topic": "Education & Training",
+    "english": "exam",
+    "pos": "n",
+    "vietnamese": "kỳ thi",
+    "korean": "시험"
+  },
+  {
+    "id": 458,
+    "topic": "Education & Training",
+    "english": "faculty",
+    "pos": "n",
+    "vietnamese": "giảng viên/khoa",
+    "korean": "교수진; 학부"
+  },
+  {
+    "id": 459,
+    "topic": "Education & Training",
+    "english": "graduate",
+    "pos": "v/n",
+    "vietnamese": "tốt nghiệp; người tốt nghiệp",
+    "korean": "졸업하다; 졸업생"
+  },
+  {
+    "id": 460,
+    "topic": "Education & Training",
+    "english": "instructor",
+    "pos": "n",
+    "vietnamese": "giảng viên",
+    "korean": "강사"
+  },
+  {
+    "id": 461,
+    "topic": "Education & Training",
+    "english": "lecture",
+    "pos": "n/v",
+    "vietnamese": "bài giảng; giảng bài",
+    "korean": "강의; 강의하다"
+  },
+  {
+    "id": 462,
+    "topic": "Education & Training",
+    "english": "lesson",
+    "pos": "n",
+    "vietnamese": "bài học",
+    "korean": "수업, 교훈"
+  },
+  {
+    "id": 463,
+    "topic": "Education & Training",
+    "english": "major",
+    "pos": "n/v",
+    "vietnamese": "chuyên ngành; học chuyên ngành",
+    "korean": "전공; 전공하다"
+  },
+  {
+    "id": 464,
+    "topic": "Education & Training",
+    "english": "material",
+    "pos": "n",
+    "vietnamese": "tài liệu",
+    "korean": "자료"
+  },
+  {
+    "id": 465,
+    "topic": "Education & Training",
+    "english": "mentor",
+    "pos": "n/v",
+    "vietnamese": "người hướng dẫn; hướng dẫn",
+    "korean": "멘토; 지도하다"
+  },
+  {
+    "id": 466,
+    "topic": "Education & Training",
+    "english": "participate",
+    "pos": "v",
+    "vietnamese": "tham gia",
+    "korean": "참여하다"
+  },
+  {
+    "id": 467,
+    "topic": "Education & Training",
+    "english": "practice",
+    "pos": "n/v",
+    "vietnamese": "luyện tập",
+    "korean": "연습; 연습하다"
+  },
+  {
+    "id": 468,
+    "topic": "Education & Training",
+    "english": "program",
+    "pos": "n",
+    "vietnamese": "chương trình",
+    "korean": "프로그램"
+  },
+  {
+    "id": 469,
+    "topic": "Education & Training",
+    "english": "register",
+    "pos": "v",
+    "vietnamese": "đăng ký",
+    "korean": "등록하다"
+  },
+  {
+    "id": 470,
+    "topic": "Education & Training",
+    "english": "requirement",
+    "pos": "n",
+    "vietnamese": "yêu cầu",
+    "korean": "요구사항"
+  },
+  {
+    "id": 471,
+    "topic": "Education & Training",
+    "english": "semester",
+    "pos": "n",
+    "vietnamese": "học kỳ",
+    "korean": "학기"
+  },
+  {
+    "id": 472,
+    "topic": "Education & Training",
+    "english": "seminar",
+    "pos": "n",
+    "vietnamese": "hội thảo chuyên đề",
+    "korean": "세미나"
+  },
+  {
+    "id": 473,
+    "topic": "Education & Training",
+    "english": "submit",
+    "pos": "v",
+    "vietnamese": "nộp",
+    "korean": "제출하다"
+  },
+  {
+    "id": 474,
+    "topic": "Education & Training",
+    "english": "syllabus",
+    "pos": "n",
+    "vietnamese": "đề cương môn học",
+    "korean": "강의계획서"
+  },
+  {
+    "id": 475,
+    "topic": "Education & Training",
+    "english": "textbook",
+    "pos": "n",
+    "vietnamese": "sách giáo khoa",
+    "korean": "교재"
+  },
+  {
+    "id": 476,
+    "topic": "Education & Training",
+    "english": "tuition",
+    "pos": "n",
+    "vietnamese": "học phí",
+    "korean": "등록금"
+  },
+  {
+    "id": 477,
+    "topic": "Education & Training",
+    "english": "tutor",
+    "pos": "n/v",
+    "vietnamese": "gia sư; dạy kèm",
+    "korean": "과외교사; 지도하다"
+  },
+  {
+    "id": 478,
+    "topic": "Education & Training",
+    "english": "workshop",
+    "pos": "n",
+    "vietnamese": "lớp thực hành",
+    "korean": "워크숍"
+  },
+  {
+    "id": 479,
+    "topic": "Education & Training",
+    "english": "scholarship",
+    "pos": "n",
+    "vietnamese": "học bổng",
+    "korean": "장학금"
+  },
+  {
+    "id": 480,
+    "topic": "Education & Training",
+    "english": "transcript",
+    "pos": "n",
+    "vietnamese": "bảng điểm",
+    "korean": "성적표"
+  },
+  {
+    "id": 481,
+    "topic": "Environment & Energy",
+    "english": "conserve",
+    "pos": "v",
+    "vietnamese": "bảo tồn/tiết kiệm",
+    "korean": "보존하다, 절약하다"
+  },
+  {
+    "id": 482,
+    "topic": "Environment & Energy",
+    "english": "consume",
+    "pos": "v",
+    "vietnamese": "tiêu thụ",
+    "korean": "소비하다"
+  },
+  {
+    "id": 483,
+    "topic": "Environment & Energy",
+    "english": "contaminate",
+    "pos": "v",
+    "vietnamese": "làm ô nhiễm",
+    "korean": "오염시키다"
+  },
+  {
+    "id": 484,
+    "topic": "Environment & Energy",
+    "english": "disposal",
+    "pos": "n",
+    "vietnamese": "sự xử lý/rác thải",
+    "korean": "처리, 폐기"
+  },
+  {
+    "id": 485,
+    "topic": "Environment & Energy",
+    "english": "efficient",
+    "pos": "adj",
+    "vietnamese": "hiệu quả/tiết kiệm",
+    "korean": "효율적인"
+  },
+  {
+    "id": 486,
+    "topic": "Environment & Energy",
+    "english": "emission",
+    "pos": "n",
+    "vietnamese": "khí thải",
+    "korean": "배출"
+  },
+  {
+    "id": 487,
+    "topic": "Environment & Energy",
+    "english": "energy",
+    "pos": "n",
+    "vietnamese": "năng lượng",
+    "korean": "에너지"
+  },
+  {
+    "id": 488,
+    "topic": "Environment & Energy",
+    "english": "environment",
+    "pos": "n",
+    "vietnamese": "môi trường",
+    "korean": "환경"
+  },
+  {
+    "id": 489,
+    "topic": "Environment & Energy",
+    "english": "fuel",
+    "pos": "n",
+    "vietnamese": "nhiên liệu",
+    "korean": "연료"
+  },
+  {
+    "id": 490,
+    "topic": "Environment & Energy",
+    "english": "greenhouse",
+    "pos": "n/adj",
+    "vietnamese": "nhà kính",
+    "korean": "온실"
+  },
+  {
+    "id": 491,
+    "topic": "Environment & Energy",
+    "english": "landfill",
+    "pos": "n",
+    "vietnamese": "bãi chôn lấp rác",
+    "korean": "매립지"
+  },
+  {
+    "id": 492,
+    "topic": "Environment & Energy",
+    "english": "pollution",
+    "pos": "n",
+    "vietnamese": "ô nhiễm",
+    "korean": "오염"
+  },
+  {
+    "id": 493,
+    "topic": "Environment & Energy",
+    "english": "recycle",
+    "pos": "v",
+    "vietnamese": "tái chế",
+    "korean": "재활용하다"
+  },
+  {
+    "id": 494,
+    "topic": "Environment & Energy",
+    "english": "reduce",
+    "pos": "v",
+    "vietnamese": "giảm",
+    "korean": "줄이다"
+  },
+  {
+    "id": 495,
+    "topic": "Environment & Energy",
+    "english": "renewable",
+    "pos": "adj",
+    "vietnamese": "tái tạo",
+    "korean": "재생 가능한"
+  },
+  {
+    "id": 496,
+    "topic": "Environment & Energy",
+    "english": "resource",
+    "pos": "n",
+    "vietnamese": "tài nguyên",
+    "korean": "자원"
+  },
+  {
+    "id": 497,
+    "topic": "Environment & Energy",
+    "english": "solar",
+    "pos": "adj",
+    "vietnamese": "thuộc mặt trời",
+    "korean": "태양의"
+  },
+  {
+    "id": 498,
+    "topic": "Environment & Energy",
+    "english": "sustainable",
+    "pos": "adj",
+    "vietnamese": "bền vững",
+    "korean": "지속 가능한"
+  },
+  {
+    "id": 499,
+    "topic": "Environment & Energy",
+    "english": "waste",
+    "pos": "n/v",
+    "vietnamese": "rác thải; lãng phí",
+    "korean": "폐기물; 낭비하다"
+  },
+  {
+    "id": 500,
+    "topic": "Environment & Energy",
+    "english": "waterproof",
+    "pos": "adj",
+    "vietnamese": "chống nước",
+    "korean": "방수의"
+  },
+  {
+    "id": 501,
+    "topic": "Environment & Energy",
+    "english": "battery",
+    "pos": "n",
+    "vietnamese": "pin/ắc quy",
+    "korean": "배터리"
+  },
+  {
+    "id": 502,
+    "topic": "Environment & Energy",
+    "english": "capacity",
+    "pos": "n",
+    "vietnamese": "dung lượng/công suất",
+    "korean": "용량, 능력"
+  },
+  {
+    "id": 503,
+    "topic": "Environment & Energy",
+    "english": "charge",
+    "pos": "v",
+    "vietnamese": "sạc/tính phí",
+    "korean": "충전하다; 청구하다"
+  },
+  {
+    "id": 504,
+    "topic": "Environment & Energy",
+    "english": "electricity",
+    "pos": "n",
+    "vietnamese": "điện",
+    "korean": "전기"
+  },
+  {
+    "id": 505,
+    "topic": "Environment & Energy",
+    "english": "generator",
+    "pos": "n",
+    "vietnamese": "máy phát điện",
+    "korean": "발전기"
+  },
+  {
+    "id": 506,
+    "topic": "Environment & Energy",
+    "english": "insulation",
+    "pos": "n",
+    "vietnamese": "cách nhiệt/cách điện",
+    "korean": "단열; 절연"
+  },
+  {
+    "id": 507,
+    "topic": "Environment & Energy",
+    "english": "pipeline",
+    "pos": "n",
+    "vietnamese": "đường ống",
+    "korean": "파이프라인"
+  },
+  {
+    "id": 508,
+    "topic": "Environment & Energy",
+    "english": "utility",
+    "pos": "n",
+    "vietnamese": "điện nước",
+    "korean": "공공 서비스"
+  },
+  {
+    "id": 509,
+    "topic": "Environment & Energy",
+    "english": "voltage",
+    "pos": "n",
+    "vietnamese": "điện áp",
+    "korean": "전압"
+  },
+  {
+    "id": 510,
+    "topic": "Environment & Energy",
+    "english": "wind power",
+    "pos": "n",
+    "vietnamese": "năng lượng gió",
+    "korean": "풍력"
+  },
+  {
+    "id": 511,
+    "topic": "General Verbs",
+    "english": "achieve",
+    "pos": "v",
+    "vietnamese": "đạt được",
+    "korean": "달성하다"
+  },
+  {
+    "id": 512,
+    "topic": "General Verbs",
+    "english": "adjust",
+    "pos": "v",
+    "vietnamese": "điều chỉnh",
+    "korean": "조정하다"
+  },
+  {
+    "id": 513,
+    "topic": "General Verbs",
+    "english": "adopt",
+    "pos": "v",
+    "vietnamese": "áp dụng/chấp nhận",
+    "korean": "채택하다"
+  },
+  {
+    "id": 514,
+    "topic": "General Verbs",
+    "english": "approve",
+    "pos": "v",
+    "vietnamese": "phê duyệt",
+    "korean": "승인하다"
+  },
+  {
+    "id": 515,
+    "topic": "General Verbs",
+    "english": "assess",
+    "pos": "v",
+    "vietnamese": "đánh giá",
+    "korean": "평가하다"
+  },
+  {
+    "id": 516,
+    "topic": "General Verbs",
+    "english": "avoid",
+    "pos": "v",
+    "vietnamese": "tránh",
+    "korean": "피하다"
+  },
+  {
+    "id": 517,
+    "topic": "General Verbs",
+    "english": "compare",
+    "pos": "v",
+    "vietnamese": "so sánh",
+    "korean": "비교하다"
+  },
+  {
+    "id": 518,
+    "topic": "General Verbs",
+    "english": "complete",
+    "pos": "v",
+    "vietnamese": "hoàn thành",
+    "korean": "완료하다"
+  },
+  {
+    "id": 519,
+    "topic": "General Verbs",
+    "english": "conduct",
+    "pos": "v",
+    "vietnamese": "tiến hành",
+    "korean": "실시하다"
+  },
+  {
+    "id": 520,
+    "topic": "General Verbs",
+    "english": "consider",
+    "pos": "v",
+    "vietnamese": "xem xét",
+    "korean": "고려하다"
+  },
+  {
+    "id": 521,
+    "topic": "General Verbs",
+    "english": "deliver",
+    "pos": "v",
+    "vietnamese": "giao/đưa",
+    "korean": "배달하다, 전달하다"
+  },
+  {
+    "id": 522,
+    "topic": "General Verbs",
+    "english": "demonstrate",
+    "pos": "v",
+    "vietnamese": "chứng minh/trình bày",
+    "korean": "보여주다, 입증하다"
+  },
+  {
+    "id": 523,
+    "topic": "General Verbs",
+    "english": "develop",
+    "pos": "v",
+    "vietnamese": "phát triển",
+    "korean": "개발하다"
+  },
+  {
+    "id": 524,
+    "topic": "General Verbs",
+    "english": "encourage",
+    "pos": "v",
+    "vietnamese": "khuyến khích",
+    "korean": "격려하다"
+  },
+  {
+    "id": 525,
+    "topic": "General Verbs",
+    "english": "establish",
+    "pos": "v",
+    "vietnamese": "thiết lập",
+    "korean": "설립하다, 수립하다"
+  },
+  {
+    "id": 526,
+    "topic": "General Verbs",
+    "english": "evaluate",
+    "pos": "v",
+    "vietnamese": "đánh giá",
+    "korean": "평가하다"
+  },
+  {
+    "id": 527,
+    "topic": "General Verbs",
+    "english": "expand",
+    "pos": "v",
+    "vietnamese": "mở rộng",
+    "korean": "확장하다"
+  },
+  {
+    "id": 528,
+    "topic": "General Verbs",
+    "english": "improve",
+    "pos": "v",
+    "vietnamese": "cải thiện",
+    "korean": "개선하다"
+  },
+  {
+    "id": 529,
+    "topic": "General Verbs",
+    "english": "increase",
+    "pos": "v",
+    "vietnamese": "tăng",
+    "korean": "증가하다"
+  },
+  {
+    "id": 530,
+    "topic": "General Verbs",
+    "english": "maintain",
+    "pos": "v",
+    "vietnamese": "duy trì/bảo trì",
+    "korean": "유지하다"
+  },
+  {
+    "id": 531,
+    "topic": "General Verbs",
+    "english": "obtain",
+    "pos": "v",
+    "vietnamese": "đạt được/lấy được",
+    "korean": "얻다"
+  },
+  {
+    "id": 532,
+    "topic": "General Verbs",
+    "english": "participate",
+    "pos": "v",
+    "vietnamese": "tham gia",
+    "korean": "참여하다"
+  },
+  {
+    "id": 533,
+    "topic": "General Verbs",
+    "english": "perform",
+    "pos": "v",
+    "vietnamese": "thực hiện/biểu diễn",
+    "korean": "수행하다"
+  },
+  {
+    "id": 534,
+    "topic": "General Verbs",
+    "english": "prepare",
+    "pos": "v",
+    "vietnamese": "chuẩn bị",
+    "korean": "준비하다"
+  },
+  {
+    "id": 535,
+    "topic": "General Verbs",
+    "english": "provide",
+    "pos": "v",
+    "vietnamese": "cung cấp",
+    "korean": "제공하다"
+  },
+  {
+    "id": 536,
+    "topic": "General Verbs",
+    "english": "recommend",
+    "pos": "v",
+    "vietnamese": "đề xuất/giới thiệu",
+    "korean": "추천하다"
+  },
+  {
+    "id": 537,
+    "topic": "General Verbs",
+    "english": "reduce",
+    "pos": "v",
+    "vietnamese": "giảm",
+    "korean": "줄이다"
+  },
+  {
+    "id": 538,
+    "topic": "General Verbs",
+    "english": "replace",
+    "pos": "v",
+    "vietnamese": "thay thế",
+    "korean": "교체하다"
+  },
+  {
+    "id": 539,
+    "topic": "General Verbs",
+    "english": "require",
+    "pos": "v",
+    "vietnamese": "yêu cầu/cần",
+    "korean": "요구하다, 필요로 하다"
+  },
+  {
+    "id": 540,
+    "topic": "General Verbs",
+    "english": "support",
+    "pos": "v",
+    "vietnamese": "hỗ trợ",
+    "korean": "지원하다"
+  },
+  {
+    "id": 541,
+    "topic": "Adjectives & Adverbs",
+    "english": "accurate",
+    "pos": "adj",
+    "vietnamese": "chính xác",
+    "korean": "정확한"
+  },
+  {
+    "id": 542,
+    "topic": "Adjectives & Adverbs",
+    "english": "additional",
+    "pos": "adj",
+    "vietnamese": "bổ sung",
+    "korean": "추가의"
+  },
+  {
+    "id": 543,
+    "topic": "Adjectives & Adverbs",
+    "english": "available",
+    "pos": "adj",
+    "vietnamese": "có sẵn/rảnh",
+    "korean": "이용 가능한"
+  },
+  {
+    "id": 544,
+    "topic": "Adjectives & Adverbs",
+    "english": "convenient",
+    "pos": "adj",
+    "vietnamese": "tiện lợi",
+    "korean": "편리한"
+  },
+  {
+    "id": 545,
+    "topic": "Adjectives & Adverbs",
+    "english": "current",
+    "pos": "adj",
+    "vietnamese": "hiện tại",
+    "korean": "현재의"
+  },
+  {
+    "id": 546,
+    "topic": "Adjectives & Adverbs",
+    "english": "deliberate",
+    "pos": "adj",
+    "vietnamese": "cố ý/thận trọng",
+    "korean": "고의적인; 신중한"
+  },
+  {
+    "id": 547,
+    "topic": "Adjectives & Adverbs",
+    "english": "durable",
+    "pos": "adj",
+    "vietnamese": "bền",
+    "korean": "내구성이 있는"
+  },
+  {
+    "id": 548,
+    "topic": "Adjectives & Adverbs",
+    "english": "efficient",
+    "pos": "adj",
+    "vietnamese": "hiệu quả",
+    "korean": "효율적인"
+  },
+  {
+    "id": 549,
+    "topic": "Adjectives & Adverbs",
+    "english": "eligible",
+    "pos": "adj",
+    "vietnamese": "đủ điều kiện",
+    "korean": "자격이 있는"
+  },
+  {
+    "id": 550,
+    "topic": "Adjectives & Adverbs",
+    "english": "essential",
+    "pos": "adj",
+    "vietnamese": "thiết yếu",
+    "korean": "필수적인"
+  },
+  {
+    "id": 551,
+    "topic": "Adjectives & Adverbs",
+    "english": "frequent",
+    "pos": "adj",
+    "vietnamese": "thường xuyên",
+    "korean": "빈번한"
+  },
+  {
+    "id": 552,
+    "topic": "Adjectives & Adverbs",
+    "english": "immediate",
+    "pos": "adj",
+    "vietnamese": "ngay lập tức",
+    "korean": "즉각적인"
+  },
+  {
+    "id": 553,
+    "topic": "Adjectives & Adverbs",
+    "english": "individual",
+    "pos": "adj/n",
+    "vietnamese": "cá nhân; cá nhân",
+    "korean": "개별의; 개인"
+  },
+  {
+    "id": 554,
+    "topic": "Adjectives & Adverbs",
+    "english": "limited",
+    "pos": "adj",
+    "vietnamese": "hạn chế",
+    "korean": "제한된"
+  },
+  {
+    "id": 555,
+    "topic": "Adjectives & Adverbs",
+    "english": "local",
+    "pos": "adj",
+    "vietnamese": "địa phương",
+    "korean": "지역의"
+  },
+  {
+    "id": 556,
+    "topic": "Adjectives & Adverbs",
+    "english": "major",
+    "pos": "adj",
+    "vietnamese": "chính/lớn",
+    "korean": "주요한"
+  },
+  {
+    "id": 557,
+    "topic": "Adjectives & Adverbs",
+    "english": "official",
+    "pos": "adj/n",
+    "vietnamese": "chính thức; quan chức",
+    "korean": "공식적인; 공무원"
+  },
+  {
+    "id": 558,
+    "topic": "Adjectives & Adverbs",
+    "english": "optional",
+    "pos": "adj",
+    "vietnamese": "tùy chọn",
+    "korean": "선택의"
+  },
+  {
+    "id": 559,
+    "topic": "Adjectives & Adverbs",
+    "english": "overall",
+    "pos": "adj/adv",
+    "vietnamese": "toàn bộ/nhìn chung",
+    "korean": "전반적인; 전반적으로"
+  },
+  {
+    "id": 560,
+    "topic": "Adjectives & Adverbs",
+    "english": "previous",
+    "pos": "adj",
+    "vietnamese": "trước đó",
+    "korean": "이전의"
+  },
+  {
+    "id": 561,
+    "topic": "Adjectives & Adverbs",
+    "english": "promptly",
+    "pos": "adv",
+    "vietnamese": "nhanh chóng",
+    "korean": "즉시, 신속하게"
+  },
+  {
+    "id": 562,
+    "topic": "Adjectives & Adverbs",
+    "english": "reliable",
+    "pos": "adj",
+    "vietnamese": "đáng tin cậy",
+    "korean": "신뢰할 수 있는"
+  },
+  {
+    "id": 563,
+    "topic": "Adjectives & Adverbs",
+    "english": "regular",
+    "pos": "adj",
+    "vietnamese": "thường xuyên/đều đặn",
+    "korean": "정기적인"
+  },
+  {
+    "id": 564,
+    "topic": "Adjectives & Adverbs",
+    "english": "revised",
+    "pos": "adj",
+    "vietnamese": "đã sửa đổi",
+    "korean": "수정된"
+  },
+  {
+    "id": 565,
+    "topic": "Adjectives & Adverbs",
+    "english": "significant",
+    "pos": "adj",
+    "vietnamese": "đáng kể/quan trọng",
+    "korean": "상당한, 중요한"
+  },
+  {
+    "id": 566,
+    "topic": "Adjectives & Adverbs",
+    "english": "suitable",
+    "pos": "adj",
+    "vietnamese": "phù hợp",
+    "korean": "적합한"
+  },
+  {
+    "id": 567,
+    "topic": "Adjectives & Adverbs",
+    "english": "temporary",
+    "pos": "adj",
+    "vietnamese": "tạm thời",
+    "korean": "임시의"
+  },
+  {
+    "id": 568,
+    "topic": "Adjectives & Adverbs",
+    "english": "thorough",
+    "pos": "adj",
+    "vietnamese": "kỹ lưỡng",
+    "korean": "철저한"
+  },
+  {
+    "id": 569,
+    "topic": "Adjectives & Adverbs",
+    "english": "various",
+    "pos": "adj",
+    "vietnamese": "nhiều loại khác nhau",
+    "korean": "다양한"
+  },
+  {
+    "id": 570,
+    "topic": "Adjectives & Adverbs",
+    "english": "willing",
+    "pos": "adj",
+    "vietnamese": "sẵn lòng",
+    "korean": "기꺼이 하는"
+  },
+  {
+    "id": 571,
+    "topic": "Nouns for Reports",
+    "english": "analysis",
+    "pos": "n",
+    "vietnamese": "phân tích",
+    "korean": "분석"
+  },
+  {
+    "id": 572,
+    "topic": "Nouns for Reports",
+    "english": "approach",
+    "pos": "n",
+    "vietnamese": "cách tiếp cận",
+    "korean": "접근법"
+  },
+  {
+    "id": 573,
+    "topic": "Nouns for Reports",
+    "english": "aspect",
+    "pos": "n",
+    "vietnamese": "khía cạnh",
+    "korean": "측면"
+  },
+  {
+    "id": 574,
+    "topic": "Nouns for Reports",
+    "english": "benefit",
+    "pos": "n",
+    "vietnamese": "lợi ích",
+    "korean": "이점"
+  },
+  {
+    "id": 575,
+    "topic": "Nouns for Reports",
+    "english": "cause",
+    "pos": "n",
+    "vietnamese": "nguyên nhân",
+    "korean": "원인"
+  },
+  {
+    "id": 576,
+    "topic": "Nouns for Reports",
+    "english": "challenge",
+    "pos": "n",
+    "vietnamese": "thách thức",
+    "korean": "도전, 과제"
+  },
+  {
+    "id": 577,
+    "topic": "Nouns for Reports",
+    "english": "comparison",
+    "pos": "n",
+    "vietnamese": "sự so sánh",
+    "korean": "비교"
+  },
+  {
+    "id": 578,
+    "topic": "Nouns for Reports",
+    "english": "conclusion",
+    "pos": "n",
+    "vietnamese": "kết luận",
+    "korean": "결론"
+  },
+  {
+    "id": 579,
+    "topic": "Nouns for Reports",
+    "english": "condition",
+    "pos": "n",
+    "vietnamese": "điều kiện/tình trạng",
+    "korean": "조건, 상태"
+  },
+  {
+    "id": 580,
+    "topic": "Nouns for Reports",
+    "english": "consequence",
+    "pos": "n",
+    "vietnamese": "hậu quả/kết quả",
+    "korean": "결과"
+  },
+  {
+    "id": 581,
+    "topic": "Nouns for Reports",
+    "english": "data",
+    "pos": "n",
+    "vietnamese": "dữ liệu",
+    "korean": "데이터"
+  },
+  {
+    "id": 582,
+    "topic": "Nouns for Reports",
+    "english": "detail",
+    "pos": "n",
+    "vietnamese": "chi tiết",
+    "korean": "세부 사항"
+  },
+  {
+    "id": 583,
+    "topic": "Nouns for Reports",
+    "english": "effect",
+    "pos": "n",
+    "vietnamese": "ảnh hưởng",
+    "korean": "영향"
+  },
+  {
+    "id": 584,
+    "topic": "Nouns for Reports",
+    "english": "evidence",
+    "pos": "n",
+    "vietnamese": "bằng chứng",
+    "korean": "증거"
+  },
+  {
+    "id": 585,
+    "topic": "Nouns for Reports",
+    "english": "factor",
+    "pos": "n",
+    "vietnamese": "yếu tố",
+    "korean": "요인"
+  },
+  {
+    "id": 586,
+    "topic": "Nouns for Reports",
+    "english": "figure",
+    "pos": "n",
+    "vietnamese": "số liệu/hình",
+    "korean": "수치; 그림"
+  },
+  {
+    "id": 587,
+    "topic": "Nouns for Reports",
+    "english": "finding",
+    "pos": "n",
+    "vietnamese": "phát hiện/kết quả nghiên cứu",
+    "korean": "결과, 발견"
+  },
+  {
+    "id": 588,
+    "topic": "Nouns for Reports",
+    "english": "goal",
+    "pos": "n",
+    "vietnamese": "mục tiêu",
+    "korean": "목표"
+  },
+  {
+    "id": 589,
+    "topic": "Nouns for Reports",
+    "english": "impact",
+    "pos": "n",
+    "vietnamese": "tác động",
+    "korean": "영향"
+  },
+  {
+    "id": 590,
+    "topic": "Nouns for Reports",
+    "english": "issue",
+    "pos": "n",
+    "vietnamese": "vấn đề",
+    "korean": "문제"
+  },
+  {
+    "id": 591,
+    "topic": "Nouns for Reports",
+    "english": "method",
+    "pos": "n",
+    "vietnamese": "phương pháp",
+    "korean": "방법"
+  },
+  {
+    "id": 592,
+    "topic": "Nouns for Reports",
+    "english": "objective",
+    "pos": "n",
+    "vietnamese": "mục tiêu",
+    "korean": "목표"
+  },
+  {
+    "id": 593,
+    "topic": "Nouns for Reports",
+    "english": "outcome",
+    "pos": "n",
+    "vietnamese": "kết quả",
+    "korean": "결과"
+  },
+  {
+    "id": 594,
+    "topic": "Nouns for Reports",
+    "english": "overview",
+    "pos": "n",
+    "vietnamese": "tổng quan",
+    "korean": "개요"
+  },
+  {
+    "id": 595,
+    "topic": "Nouns for Reports",
+    "english": "purpose",
+    "pos": "n",
+    "vietnamese": "mục đích",
+    "korean": "목적"
+  },
+  {
+    "id": 596,
+    "topic": "Nouns for Reports",
+    "english": "range",
+    "pos": "n",
+    "vietnamese": "phạm vi/khoảng",
+    "korean": "범위"
+  },
+  {
+    "id": 597,
+    "topic": "Nouns for Reports",
+    "english": "rate",
+    "pos": "n",
+    "vietnamese": "tỷ lệ",
+    "korean": "비율"
+  },
+  {
+    "id": 598,
+    "topic": "Nouns for Reports",
+    "english": "result",
+    "pos": "n",
+    "vietnamese": "kết quả",
+    "korean": "결과"
+  },
+  {
+    "id": 599,
+    "topic": "Nouns for Reports",
+    "english": "solution",
+    "pos": "n",
+    "vietnamese": "giải pháp",
+    "korean": "해결책"
+  },
+  {
+    "id": 600,
+    "topic": "Nouns for Reports",
+    "english": "summary",
+    "pos": "n",
+    "vietnamese": "tóm tắt",
+    "korean": "요약"
+  }
+]
